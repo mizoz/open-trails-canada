@@ -1,0 +1,9 @@
+{
+  "name": "Open Trails Canada",
+  "short_name": "Open Trails",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f5ef",
+  "theme_color": "#1f5f4a",
+  "icons": [{ "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

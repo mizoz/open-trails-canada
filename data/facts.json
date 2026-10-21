@@ -1,0 +1,398 @@
+{
+  "checked": "2026-10-21",
+  "values": {
+    "pc_adult_day": "$12.25",
+    "pc_senior_day": "$10.75",
+    "pc_group_day": "$24.50",
+    "pc_discovery_adult": "$83.50",
+    "pc_discovery_senior": "$71.50",
+    "pc_discovery_family": "$167.50",
+    "kpass_day": "$15",
+    "kpass_year": "$90",
+    "pclcp_3day": "$20",
+    "pclcp_year": "$30",
+    "win_fee": "$8",
+    "fish_resident": "$30",
+    "pc_fish_day": "$15",
+    "pc_fish_year": "$51.25",
+    "random_max_days": "14",
+    "pc_wildlife_fine": "$25,000",
+    "calgary_lifejacket_fine": "$500"
+  },
+  "links": {
+    "canoo": {
+      "name": "Canoo (Institute for Canadian Citizenship)",
+      "url": "https://canoo.ca/"
+    },
+    "pc_fees": {
+      "name": "Parks Canada: Banff fees",
+      "url": "https://parks.canada.ca/pn-np/ab/banff/visit/tarifs-fees"
+    },
+    "pc_discovery": {
+      "name": "Parks Canada: admission & Discovery Pass",
+      "url": "https://parks.canada.ca/voyage-travel/admission"
+    },
+    "pc_reserve": {
+      "name": "Parks Canada Reservation Service",
+      "url": "https://reservation.pc.gc.ca/"
+    },
+    "pc_learn_camp": {
+      "name": "Parks Canada: Learn-to-Camp",
+      "url": "https://parks.canada.ca/voyage-travel/hebergement-accommodation/initiation-camping-learn"
+    },
+    "pc_fishing": {
+      "name": "Parks Canada: fishing in Banff",
+      "url": "https://parks.canada.ca/pn-np/ab/banff/activ/peche-fishing"
+    },
+    "pc_wildlife": {
+      "name": "Parks Canada: give wildlife space",
+      "url": "https://parks.canada.ca/pn-np/ab/banff/visit/faune-wildlife/espace-space"
+    },
+    "pc_bears": {
+      "name": "Parks Canada: bear safety",
+      "url": "https://parks.canada.ca/pn-np/mtn/ours-bears"
+    },
+    "kpass": {
+      "name": "Alberta: Kananaskis Conservation Pass",
+      "url": "https://www.alberta.ca/kananaskis-conservation-pass"
+    },
+    "kpass_buy": {
+      "name": "Buy the Kananaskis pass",
+      "url": "https://conservationpass.alberta.ca/kcp"
+    },
+    "pclcp": {
+      "name": "Alberta: Public Lands Camping Pass",
+      "url": "https://www.alberta.ca/public-lands-camping-pass"
+    },
+    "random_camping": {
+      "name": "Alberta: camping on public land",
+      "url": "https://www.alberta.ca/camping-on-public-land"
+    },
+    "relm": {
+      "name": "AlbertaRELM (licences & passes)",
+      "url": "https://www.albertarelm.com/"
+    },
+    "ab_parks": {
+      "name": "Alberta Parks",
+      "url": "https://albertaparks.ca/"
+    },
+    "ab_reserve": {
+      "name": "Alberta Parks reservations",
+      "url": "https://reserve.albertaparks.ca/"
+    },
+    "ab_parks_trails": {
+      "name": "Kananaskis trail reports",
+      "url": "https://albertaparks.ca/parks/kananaskis/kananaskis-country/advisories-public-safety/trail-reports/"
+    },
+    "k_safety": {
+      "name": "Kananaskis: backcountry safety",
+      "url": "https://albertaparks.ca/parks/kananaskis/kananaskis-country/advisories-public-safety/backcountry-safety"
+    },
+    "public_land": {
+      "name": "Alberta: recreation on public land",
+      "url": "https://www.alberta.ca/public-land-recreation"
+    },
+    "trail_maps": {
+      "name": "Alberta public land recreation maps",
+      "url": "https://www.alberta.ca/public-land-recreation-maps"
+    },
+    "pluz": {
+      "name": "Alberta: Public Land Use Zones",
+      "url": "https://www.alberta.ca/public-land-use-zones"
+    },
+    "ohv": {
+      "name": "Alberta: OHV helmet law",
+      "url": "https://www.alberta.ca/off-highway-vehicle-helmet-law"
+    },
+    "trespass": {
+      "name": "Alberta Trespass to Premises Act",
+      "url": "https://kings-printer.alberta.ca/1266.cfm?page=T07.cfm&leg_type=Acts&isbncln=9780779840380"
+    },
+    "grazing_access": {
+      "name": "Alberta: recreation on agricultural public land",
+      "url": "https://www.alberta.ca/recreation-on-agricultural-public-land"
+    },
+    "fish_licence": {
+      "name": "Alberta sportfishing licences",
+      "url": "https://www.albertaregulations.ca/fishingregs/licensing.html"
+    },
+    "fish_regs": {
+      "name": "Alberta Guide to Sportfishing Regulations",
+      "url": "https://www.albertaregulations.ca/fishingregs/"
+    },
+    "fish_map": {
+      "name": "Alberta fishing regulations map",
+      "url": "https://geospatial.alberta.ca/afr/"
+    },
+    "fish_free": {
+      "name": "Family Fishing Weekends",
+      "url": "https://mywildalberta.ca/fishing/family-fishing-weekends"
+    },
+    "fish_stocking": {
+      "name": "Alberta fish stocking",
+      "url": "https://mywildalberta.ca/fishing/fish-stocking/default.aspx"
+    },
+    "hunter_ed": {
+      "name": "Alberta Hunter Education (AHEIA)",
+      "url": "https://aheia.com/"
+    },
+    "hunt_regs": {
+      "name": "Alberta Guide to Hunting Regulations",
+      "url": "https://www.albertaregulations.ca/huntingregs/"
+    },
+    "pal": {
+      "name": "RCMP: apply for a firearms licence",
+      "url": "https://rcmp.ca/en/firearms/apply-firearms-licence"
+    },
+    "tc_boating": {
+      "name": "Transport Canada: lifejackets",
+      "url": "https://tc.canada.ca/en/marine-transportation/marine-safety/boating-safety/choosing-lifejackets-personal-flotation-devices-pfds"
+    },
+    "pcoc": {
+      "name": "Transport Canada: Pleasure Craft Operator Card",
+      "url": "https://tc.canada.ca/en/marine-transportation/preparing-operate-your-vessel/pleasure-craft-operator-card-pcoc"
+    },
+    "calgary_river": {
+      "name": "City of Calgary: river safety",
+      "url": "https://www.calgary.ca/safety/river-floating.html"
+    },
+    "calgary_river_access": {
+      "name": "City of Calgary: river access map",
+      "url": "https://maps.calgary.ca/RiverAccess/"
+    },
+    "glenmore": {
+      "name": "City of Calgary: Glenmore Reservoir rules",
+      "url": "https://calgary.ca/rec-locations/sailing-school/rules.html"
+    },
+    "mussels": {
+      "name": "Alberta: aquatic invasive species",
+      "url": "https://www.alberta.ca/aquatic-invasive-species"
+    },
+    "cold_water": {
+      "name": "Alberta Parks: cold water safety",
+      "url": "https://albertaparks.ca/coldwatersafety"
+    },
+    "avalanche": {
+      "name": "Avalanche Canada",
+      "url": "https://avalanche.ca/"
+    },
+    "ast": {
+      "name": "Avalanche Canada: training (AST 1)",
+      "url": "https://avalanche.ca/training"
+    },
+    "ab511": {
+      "name": "511 Alberta road conditions",
+      "url": "https://511.alberta.ca/"
+    },
+    "firebans": {
+      "name": "Alberta Fire Bans",
+      "url": "https://www.albertafirebans.ca/"
+    },
+    "fire_permit": {
+      "name": "Alberta: fire permits",
+      "url": "https://www.alberta.ca/get-a-fire-permit"
+    },
+    "bearsmart": {
+      "name": "Alberta BearSmart",
+      "url": "https://www.alberta.ca/alberta-bearsmart"
+    },
+    "k_bears": {
+      "name": "Kananaskis: be bear smart",
+      "url": "https://albertaparks.ca/parks/kananaskis/kananaskis-country/advisories-public-safety/wildlife/be-bear-smart"
+    },
+    "adventuresmart": {
+      "name": "AdventureSmart trip plan",
+      "url": "https://www.adventuresmart.ca/"
+    },
+    "calgary_parks": {
+      "name": "City of Calgary: parks",
+      "url": "https://www.calgary.ca/parks.html"
+    },
+    "fish_creek": {
+      "name": "Fish Creek Provincial Park",
+      "url": "https://albertaparks.ca/parks/kananaskis/fish-creek-pp/"
+    },
+    "glenbow_link": {
+      "name": "Glenbow Ranch Provincial Park",
+      "url": "https://albertaparks.ca/parks/kananaskis/glenbow-ranch-pp/"
+    },
+    "transit": {
+      "name": "Calgary Transit trip planner",
+      "url": "https://www.calgarytransit.com/"
+    },
+    "onit": {
+      "name": "On-It Regional Transit",
+      "url": "https://www.onitregionaltransit.ca/"
+    },
+    "roam": {
+      "name": "Roam Transit (Banff & Canmore)",
+      "url": "https://roamtransit.com/"
+    },
+    "lnt": {
+      "name": "Leave No Trace Canada",
+      "url": "https://www.leavenotrace.ca/"
+    },
+    "calgary_fee_assist": {
+      "name": "City of Calgary: Fee Assistance",
+      "url": "https://www.calgary.ca/rec-locations/prices/fee-assistance.html"
+    },
+    "calgary_skating": {
+      "name": "City of Calgary: outdoor skating",
+      "url": "https://www.calgary.ca/parks/activities/outdoor-skating-rinks.html"
+    },
+    "ucalgary_outdoor": {
+      "name": "UCalgary Outdoor Centre",
+      "url": "https://outdoor-centre.ucalgary.ca/"
+    },
+    "field_leader": {
+      "name": "Outdoor Council of Canada Field Leader (UCalgary)",
+      "url": "https://activelivingportal.ucalgary.ca/Program/FieldLeaderHiking"
+    },
+    "banff_link": {
+      "name": "Banff National Park",
+      "url": "https://parks.canada.ca/pn-np/ab/banff"
+    },
+    "kananaskis_link": {
+      "name": "Kananaskis Country",
+      "url": "https://albertaparks.ca/parks/kananaskis/kananaskis-country/"
+    },
+    "repo": {
+      "name": "Source code on GitHub",
+      "url": "https://github.com/mizoz/open-trails-canada"
+    },
+    "issues": {
+      "name": "Report a mistake or suggest a fix",
+      "url": "https://github.com/mizoz/open-trails-canada/issues/new"
+    },
+    "crown_vision": {
+      "name": "Alberta Crown Land Vision",
+      "url": "https://www.alberta.ca/alberta-crown-land-vision"
+    },
+    "calgary_ice": {
+      "name": "City of Calgary: ice safety",
+      "url": "https://www.calgary.ca/safety/ice.html"
+    }
+  },
+  "officialMaps": [
+    "trail_maps",
+    "pluz",
+    "grazing_access",
+    "firebans",
+    "calgary_river_access",
+    "fish_map",
+    "avalanche",
+    "ab511"
+  ],
+  "places": [
+    {
+      "id": "fish_creek",
+      "name": "Fish Creek Provincial Park",
+      "kind": "city",
+      "lat": 50.917,
+      "lng": -114.013,
+      "links": [
+        "fish_creek",
+        "transit"
+      ]
+    },
+    {
+      "id": "nose_hill",
+      "name": "Nose Hill Park",
+      "kind": "city",
+      "lat": 51.115,
+      "lng": -114.11,
+      "links": [
+        "calgary_parks",
+        "transit"
+      ]
+    },
+    {
+      "id": "edworthy",
+      "name": "Edworthy Park & Douglas Fir Trail",
+      "kind": "city",
+      "lat": 51.073,
+      "lng": -114.158,
+      "links": [
+        "calgary_parks",
+        "transit"
+      ]
+    },
+    {
+      "id": "glenmore",
+      "name": "Glenmore Reservoir",
+      "kind": "water",
+      "lat": 50.985,
+      "lng": -114.12,
+      "links": [
+        "glenmore"
+      ]
+    },
+    {
+      "id": "glenbow",
+      "name": "Glenbow Ranch Provincial Park",
+      "kind": "provincial",
+      "lat": 51.164,
+      "lng": -114.39,
+      "links": [
+        "glenbow_link"
+      ]
+    },
+    {
+      "id": "bragg",
+      "name": "West Bragg Creek",
+      "kind": "provincial",
+      "lat": 50.944,
+      "lng": -114.628,
+      "links": [
+        "kpass",
+        "kananaskis_link"
+      ]
+    },
+    {
+      "id": "bow_valley",
+      "name": "Bow Valley Provincial Park",
+      "kind": "provincial",
+      "lat": 51.082,
+      "lng": -115.057,
+      "links": [
+        "kpass",
+        "ab_reserve"
+      ]
+    },
+    {
+      "id": "canmore",
+      "name": "Canmore",
+      "kind": "town",
+      "lat": 51.088,
+      "lng": -115.348,
+      "links": [
+        "onit",
+        "roam"
+      ]
+    },
+    {
+      "id": "kananaskis",
+      "name": "Kananaskis Village & Peter Lougheed Provincial Park",
+      "kind": "provincial",
+      "lat": 50.8,
+      "lng": -115.15,
+      "links": [
+        "kpass",
+        "kananaskis_link",
+        "k_safety"
+      ]
+    },
+    {
+      "id": "banff",
+      "name": "Banff National Park",
+      "kind": "national",
+      "lat": 51.178,
+      "lng": -115.571,
+      "links": [
+        "banff_link",
+        "pc_fees",
+        "roam"
+      ]
+    }
+  ]
+}

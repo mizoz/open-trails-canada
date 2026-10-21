@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Open Trails Canada</title>
+<meta name="description" content="A free, multilingual guide to the outdoors around Calgary and Alberta for newcomers to Canada: passes, public land, camping, fishing, hunting, safety and maps, linked to the official rules.">
+<meta name="theme-color" content="#1f5f4a">
+<link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<a class="skip" href="#main" data-ui="skip">Skip to content</a>
+<header class="top">
+  <a class="brand" href="#/">
+    <img src="assets/icon.svg" alt="" width="32" height="32">
+    <span>Open Trails Canada</span>
+  </a>
+  <label class="lang">
+    <span class="sr" data-ui="chooseLang">Language</span>
+    <select id="lang-select" aria-label="Language"></select>
+  </label>
+</header>
+
+<main id="main" tabindex="-1">
+  <p class="loading">Loading…</p>
+</main>
+
+<footer class="foot">
+  <p id="foot-land"></p>
+  <p id="foot-disclaimer"></p>
+  <p>
+    <a href="#/about" data-ui="aboutLink">About &amp; corrections</a> ·
+    <a href="https://github.com/mizoz/open-trails-canada" rel="noopener">GitHub</a>
+  </p>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js" defer></script>
+<script src="assets/app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,755 @@
+{
+  "ui": {
+    "skip": "Skip to content",
+    "chooseLang": "Language",
+    "home": "Home",
+    "heroTitle": "The outdoors around Calgary, explained for newcomers",
+    "heroText": "Mountains, rivers, parks and huge areas of public land are a short drive from Calgary, and a lot of it is free. This guide explains the passes, rules and safety basics in plain language, with a link to the official source each time.",
+    "chipStart": "Start here",
+    "chipMap": "Map",
+    "chipSafety": "Safety",
+    "emergencyTitle": "In an emergency, call 911.",
+    "emergencyText": "911 is free and you can ask for an interpreter: say \"interpreter\" and the name of your language. In Kananaskis, say \"Kananaskis Country\". Many mountain areas have no cell signal, so tell someone where you are going before you leave.",
+    "mapTitle": "Map of places near Calgary",
+    "mapSummary": "City parks, provincial parks and national parks to start with, and how to reach them.",
+    "mapIntro": "These are good first places to visit, from city parks you can reach by bus to the Rocky Mountains about 1 to 2 hours west. Click a place to see what it is and which pass you need. Map points are approximate.",
+    "officialMapsTitle": "Use official maps for rules and boundaries",
+    "officialMapsText": "This map is only for finding places. It does not show land boundaries, closures, fire bans or hunting zones. Check the official maps and alerts before you go.",
+    "kind_city": "City park (free)",
+    "kind_provincial": "Provincial park / Kananaskis",
+    "kind_national": "National park (Parks Canada pass)",
+    "kind_town": "Mountain town",
+    "kind_water": "Lake or reservoir",
+    "officialSources": "Official sources",
+    "lastChecked": "Information last checked",
+    "translationTitle": "About this translation",
+    "translationNote": "This translation was written with machine help and may contain mistakes. If a rule matters (licences, fines, safety), check the linked official page. Want to help fix it? See About & corrections.",
+    "landAck": "Calgary is on the traditional territories of the peoples of Treaty 7: the Blackfoot Confederacy (Siksika, Piikani, Amskaapipiikani and Kainai), the Tsuut'ina, and the Îyâxe Nakoda (Chiniki, Bearspaw and Goodstoney). Calgary is also home to the Otipemisiwak Métis Government, Districts 5 and 6.",
+    "disclaimer": "Open Trails Canada is an independent community guide, not a government website. Rules, prices and closures change. Always check the official source linked on each page.",
+    "aboutLink": "About & corrections",
+    "aboutTitle": "About this guide"
+  },
+  "topics": [
+    {
+      "id": "start",
+      "icon": "🧭",
+      "title": "Start here",
+      "summary": "What is free, what you pay for, and a simple first trip plan.",
+      "blocks": [
+        {
+          "h": "Good news: a lot is free",
+          "list": [
+            "**City parks are free.** Fish Creek Provincial Park, Nose Hill Park, Edworthy Park and the river pathways are inside Calgary, and you can reach many of them by Calgary Transit.",
+            "**Most of Alberta is public land.** About 60% of the province is Crown land, owned by the government for the public. On most of it you can walk, hike, picnic and camp. Some activities need a pass, and some areas are closed or leased. See the Public land guide.",
+            "**Kids are free in national parks.** Youth 17 and under get free entry to Parks Canada places.",
+            "**Newcomers can get free national park entry.** The free Canoo app gives free Parks Canada admission for one year to new permanent residents (within 5 years of becoming a PR) and new citizens (within 1 year of their ceremony)."
+          ],
+          "links": [
+            "canoo"
+          ]
+        },
+        {
+          "h": "The three passes people ask about most",
+          "list": [
+            "**Parks Canada pass**: for national parks like Banff, Yoho and Jasper. {pc_adult_day} per adult per day, or {pc_group_day} per day for a family or group of up to 7 in one vehicle. A yearly Discovery Pass for a family is {pc_discovery_family}.",
+            "**Kananaskis Conservation Pass**: for parking in Kananaskis Country and the Bow Valley, about 1 hour west of Calgary. {kpass_day} per day or {kpass_year} per year, linked to your licence plate.",
+            "**Public Lands Camping Pass**: for camping on public land outside campgrounds in the foothills and mountains. {pclcp_3day} for 3 days or {pclcp_year} for a year, per adult."
+          ],
+          "links": [
+            "pc_fees",
+            "kpass",
+            "pclcp"
+          ]
+        },
+        {
+          "h": "A simple first trip",
+          "kind": "tip",
+          "list": [
+            "Start with a city park or an easy trail near Canmore or Bragg Creek before trying long mountain hikes.",
+            "Check the weather and trail conditions the day before. Mountain weather changes fast, even in summer.",
+            "Bring water, food, a warm layer, a rain jacket, a fully charged phone and a map you can use offline.",
+            "In Kananaskis or Banff, carry bear spray and know how to use it.",
+            "Tell someone where you are going and when you will be back."
+          ]
+        },
+        {
+          "h": "You do not need expensive gear to start",
+          "p": "Comfortable shoes, layers of clothes and a backpack are enough for most easy trails. You can rent or borrow tents, skis and other gear. See Learn, borrow & join."
+        }
+      ]
+    },
+    {
+      "id": "passes",
+      "icon": "🎟️",
+      "title": "Passes & fees",
+      "summary": "Which pass you need for which place, what it costs, and how to buy it.",
+      "blocks": [
+        {
+          "h": "National parks (Banff, Yoho, Kootenay, Jasper, Waterton)",
+          "p": [
+            "You need a Parks Canada admission pass to stop in a national park. You can buy it online, at the park gates on the highway, or at visitor centres.",
+            "Daily: {pc_adult_day} per adult, {pc_senior_day} per senior (65+), or {pc_group_day} per family or group (up to 7 people in one vehicle). Youth 17 and under are free.",
+            "The **Parks Canada Discovery Pass** lasts 12 months and covers more than 80 Parks Canada places: {pc_discovery_adult} for one adult, {pc_discovery_senior} for a senior, or {pc_discovery_family} for a family or group. If you visit more than about 7 days in a year, it saves money."
+          ],
+          "links": [
+            "pc_fees",
+            "pc_discovery"
+          ]
+        },
+        {
+          "h": "Free entry for new citizens: Canoo",
+          "kind": "tip",
+          "p": "Canoo is a free app from the Institute for Canadian Citizenship. If you became a permanent resident in the last 5 years, or a citizen in the last year, it can give you free Parks Canada admission for one year, plus up to 4 of your children under 18. It does not cover camping, hot springs, permits or tours. A spouse needs their own account. Check the app for current rules.",
+          "links": [
+            "canoo"
+          ]
+        },
+        {
+          "h": "Kananaskis Conservation Pass",
+          "p": [
+            "Kananaskis Country is a large mountain area west of Calgary with many trails, lakes and campgrounds. If you park a vehicle there, or in Bow Valley parks near Canmore, you need this pass. You do not need it if you only drive through, or arrive on foot or by bike.",
+            "Cost: {kpass_day} per day per vehicle, or {kpass_year} per year for up to 3 vehicles. It is linked to your licence plate. Buy it online before you go, because there is often no cell signal. Status First Nations people and some low-income Albertans can get it free."
+          ],
+          "links": [
+            "kpass",
+            "kpass_buy"
+          ]
+        },
+        {
+          "h": "Public Lands Camping Pass",
+          "p": [
+            "You need this pass if you are 18 or older and you camp on public land on the Eastern Slopes of the Rockies (from Grande Prairie to Waterton), outside a campground.",
+            "Cost: {pclcp_3day} for 3 days or {pclcp_year} for a year, per person, plus a small processing fee. You also need a WIN number ({win_fee}, one time). Buy it on AlbertaRELM. You do not need it for day trips or in paid campgrounds."
+          ],
+          "links": [
+            "pclcp",
+            "relm"
+          ]
+        },
+        {
+          "h": "Alberta provincial parks",
+          "p": "Most provincial parks have no entry fee for day visits. You pay for campsites, and you need the Kananaskis pass in Kananaskis and the Bow Valley. Book campsites through Alberta Parks reservations.",
+          "links": [
+            "ab_parks",
+            "ab_reserve"
+          ]
+        },
+        {
+          "h": "Licences for fishing and hunting",
+          "p": "Fishing and hunting need their own licences. See the Fishing and Hunting guides."
+        }
+      ]
+    },
+    {
+      "id": "hiking",
+      "icon": "🥾",
+      "title": "Hiking & walking",
+      "summary": "Easy places to start, how to get there without a car, and trail manners.",
+      "blocks": [
+        {
+          "h": "Inside Calgary (free, many reachable by bus or train)",
+          "list": [
+            "**Fish Creek Provincial Park**: one of the largest city parks in Canada, in south Calgary, with more than 100 km of trails. Day use only.",
+            "**Nose Hill Park**: open prairie in north Calgary with wide views of the mountains on clear days.",
+            "**Edworthy Park and the Douglas Fir Trail**: a forest trail with stairs above the Bow River.",
+            "**Glenbow Ranch Provincial Park**: just west of the city, with river valley views and wide gravel paths. You need a car to get there."
+          ],
+          "links": [
+            "calgary_parks",
+            "transit"
+          ]
+        },
+        {
+          "h": "Day trips to the mountains",
+          "p": [
+            "Canmore and Banff are about 1 to 1.5 hours west on Highway 1. Bragg Creek and Kananaskis are 45 to 90 minutes away. Start with short, popular trails with many other hikers.",
+            "No car? Private bus companies run between Calgary, Canmore and Banff. On-It Regional Transit has run buses from Calgary to Banff and Kananaskis in summer (check the current schedule). In Banff and Canmore, Roam Transit buses go to trailheads and lakes."
+          ],
+          "links": [
+            "onit",
+            "roam",
+            "ab_parks_trails"
+          ]
+        },
+        {
+          "h": "Trail manners in Canada",
+          "list": [
+            "Stay on the trail. Walking around muddy parts damages plants and makes trails wider.",
+            "Pack out everything you bring, including food waste and toilet paper.",
+            "Dogs must be on a leash in national parks and most provincial parks.",
+            "Do not pick flowers, take rocks or antlers, or feed animals. In parks, this can bring a fine.",
+            "Uphill hikers have the right of way. Move aside for bikes and horses when it is safe.",
+            "Playing music through a speaker is considered rude on most trails."
+          ],
+          "links": [
+            "lnt"
+          ]
+        },
+        {
+          "h": "What to bring (the \"10 essentials\")",
+          "kind": "tip",
+          "list": [
+            "Water and extra food",
+            "Warm layer and rain jacket, even in summer",
+            "Map or offline map app, and a charged phone or battery pack",
+            "Headlamp or flashlight",
+            "First-aid kit",
+            "Bear spray in Kananaskis and the mountain parks",
+            "Sun protection: hat, sunglasses, sunscreen",
+            "Whistle",
+            "Pocket knife",
+            "Emergency blanket"
+          ],
+          "links": [
+            "adventuresmart"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "camping",
+      "icon": "⛺",
+      "title": "Camping",
+      "summary": "Campgrounds, booking dates, and camping for free on public land.",
+      "blocks": [
+        {
+          "h": "Campgrounds: the easiest way to start",
+          "p": [
+            "Campgrounds have numbered sites, toilets and often water and staff. You book a site online. Popular summer weekend sites fill up quickly when booking opens, often months before. Weekdays and September are easier.",
+            "Book Alberta provincial park campsites (including Kananaskis) through Alberta Parks. Book national park campsites (Banff, Jasper and others) through Parks Canada."
+          ],
+          "links": [
+            "ab_reserve",
+            "pc_reserve"
+          ]
+        },
+        {
+          "h": "Never camped before? Try a beginner program",
+          "kind": "tip",
+          "p": "Parks Canada runs Learn-to-Camp events in some places, and some groups lend gear or run trips for newcomers. See Learn, borrow & join.",
+          "links": [
+            "pc_learn_camp"
+          ]
+        },
+        {
+          "h": "Camping on public land (random camping)",
+          "p": [
+            "You can also camp outside campgrounds on most public land. This is called random camping or dispersed camping. There are no toilets, no water and no staff, so you must be self-sufficient.",
+            "On the Eastern Slopes of the Rockies, adults need the Public Lands Camping Pass ({pclcp_3day} for 3 days or {pclcp_year} for a year)."
+          ],
+          "list": [
+            "Stay up to {random_max_days} days in one place. Then move at least 1 km away for 72 hours.",
+            "Camp at least 30 m from lakes and streams, and at least 100 m from oil and gas sites.",
+            "Do not camp within 1 km of a provincial park, recreation area or campground. In the Kananaskis, McLean Creek, Sibbald and Cataract Creek zones, do not camp within 1 km of a road.",
+            "Check for fire bans before you light any fire.",
+            "Take all garbage home. Bury human waste at least 15 cm deep and at least 70 m from water. Pack out toilet paper."
+          ],
+          "links": [
+            "pclcp",
+            "random_camping",
+            "firebans"
+          ]
+        },
+        {
+          "h": "Food and bears",
+          "kind": "warn",
+          "p": "Never keep food, garbage, toothpaste or cooking gear in your tent. Store it in a locked hard-sided vehicle or a bear locker. In campgrounds, leaving food out can bring a fine, because bears that get human food often have to be killed."
+        }
+      ]
+    },
+    {
+      "id": "public-land",
+      "icon": "🌲",
+      "title": "Public (Crown) land",
+      "summary": "What \"Crown land\" means, where you can go, and how to tell public land from private land.",
+      "blocks": [
+        {
+          "h": "What is Crown land?",
+          "p": [
+            "\"Crown land\" is land owned by the government for the public. About 60% of Alberta is Crown land. It includes parks, and also huge areas of **public land** in the forests and foothills west of Calgary and in the north.",
+            "Many newcomers do not know this: on most public land, anyone can walk, hike, cycle, picnic, watch birds and camp, without asking permission."
+          ],
+          "links": [
+            "public_land",
+            "crown_vision"
+          ]
+        },
+        {
+          "h": "Green Area and White Area",
+          "list": [
+            "**Green Area**: mostly forest in the north and the mountains and foothills. Most of this land is public and open for recreation.",
+            "**White Area**: the settled farmland in central, southern and eastern Alberta, including Calgary. Most land here is private. Some public land exists, but much of it is leased to ranchers."
+          ]
+        },
+        {
+          "h": "Private land: always ask first",
+          "kind": "warn",
+          "p": [
+            "In Alberta you need permission from the owner or occupant to go onto private land, including for hunting. Entering without permission is trespassing and you can be fined.",
+            "Some public land is leased to ranchers for grazing. You can usually use it for recreation, but you must contact the leaseholder first. The leaseholder must allow reasonable access unless it puts the land, crops or animals at risk. The official web map shows who to contact. Ask a few days before you go."
+          ],
+          "links": [
+            "trespass",
+            "grazing_access"
+          ]
+        },
+        {
+          "h": "Public Land Use Zones (PLUZ)",
+          "p": "Some public land near Calgary is in a Public Land Use Zone (PLUZ), for example Kananaskis, McLean Creek and Sibbald. These zones have extra rules. Off-highway vehicles (OHVs) can use only marked trails, and some areas close in some seasons. On public land, OHV riders must wear a helmet and the vehicle must be registered and insured.",
+          "links": [
+            "pluz",
+            "ohv"
+          ]
+        },
+        {
+          "h": "How to tell what land you are on",
+          "kind": "tip",
+          "list": [
+            "Use the official Alberta public land recreation maps. They show trails, zones and closures.",
+            "Download an offline map before you lose cell signal.",
+            "Signs saying \"No trespassing\", \"Private property\" or showing a lease number mean you should not enter without permission.",
+            "If you are not sure, do not enter. Ask the county or the land office."
+          ],
+          "links": [
+            "trail_maps"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fishing",
+      "icon": "🎣",
+      "title": "Fishing",
+      "summary": "Who needs a licence, how to get one, and the rules that surprise newcomers.",
+      "blocks": [
+        {
+          "h": "Do I need a licence?",
+          "p": [
+            "Yes, if you are 16 or older. Alberta residents under 16 or 65 and older can fish without a licence, but they must still follow every rule.",
+            "You are an Alberta resident for fishing if you are a Canadian citizen or permanent resident and your main home is in Alberta. First you get a **WIN** (Wildlife Identification Number, {win_fee}, one time). Then you buy a sportfishing licence: {fish_resident} per year for residents. You can buy both online on AlbertaRELM or at many sports and hardware stores."
+          ],
+          "links": [
+            "fish_licence",
+            "relm"
+          ]
+        },
+        {
+          "h": "Free fishing weekends",
+          "kind": "tip",
+          "p": "Alberta usually has two Family Fishing Weekends each year, in February and July, when anyone can fish in Alberta without a licence. All other rules still apply, and they do not include national parks. Check the official page for next year's dates.",
+          "links": [
+            "fish_free"
+          ]
+        },
+        {
+          "h": "Rules that surprise people",
+          "list": [
+            "Every lake and river has its own rules: open seasons, size limits, how many fish you can keep, and bait rules. Many waters near Calgary are catch-and-release for some species.",
+            "Before you go, check the rules for the exact water you will fish. Use the official regulations guide or the official fishing regulations map.",
+            "Bull trout, Alberta's provincial fish, are protected. If you catch one, you must release it.",
+            "In national parks like Banff you need a **Parks Canada fishing permit** ({pc_fish_day} per day or {pc_fish_year} per year), plus park admission. An Alberta licence does not work there.",
+            "Fish and Wildlife officers check licences. Carry your licence (paper or on your phone)."
+          ],
+          "links": [
+            "fish_regs",
+            "fish_map",
+            "pc_fishing"
+          ]
+        },
+        {
+          "h": "Where to start near Calgary",
+          "p": "The Bow River through Calgary is famous for trout fishing. Stocked ponds and lakes are often easier for beginners. Alberta publishes which waters are stocked.",
+          "links": [
+            "fish_stocking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hunting",
+      "icon": "🦌",
+      "title": "Hunting",
+      "summary": "The courses, licences and permissions you need before your first hunt.",
+      "blocks": [
+        {
+          "h": "Hunting is regulated, but you can learn it",
+          "p": "Many Albertans hunt for food. If you want to learn, plan ahead: you need a course, licences and, if you will hunt with a gun, a federal firearms licence. Most hunts also need permission to enter private land."
+        },
+        {
+          "h": "Step 1: Hunter education",
+          "p": "First-time hunters in Alberta must pass the **Alberta Conservation and Hunter Education** course before buying a hunting licence. You must be at least 12 years old (10 for game birds). You also need a WIN number, the same one used for fishing.",
+          "links": [
+            "hunter_ed",
+            "relm"
+          ]
+        },
+        {
+          "h": "Step 2: Firearms licence (PAL)",
+          "p": "To own or buy a firearm or ammunition in Canada, you need a **Possession and Acquisition Licence (PAL)** from the RCMP. First you pass the Canadian Firearms Safety Course (CFSC). Getting a PAL can take several weeks or months, so start early. Bows have separate rules in the hunting regulations.",
+          "links": [
+            "pal"
+          ]
+        },
+        {
+          "h": "Step 3: Licences and residency",
+          "p": [
+            "For hunting, you are an Alberta resident if your main home is in Alberta **and** you are a Canadian citizen or permanent resident, or you have lived in Canada for the last 12 months. So permanent residents can buy resident licences.",
+            "Most hunting needs a wildlife certificate plus a licence or tag for each species. Some licences are given by a draw (lottery) that you apply for months ahead."
+          ],
+          "links": [
+            "hunt_regs"
+          ]
+        },
+        {
+          "h": "Important rules",
+          "kind": "warn",
+          "list": [
+            "You need permission from the owner or occupant to hunt on private land.",
+            "Hunting is not allowed in national parks, and is limited in many provincial parks.",
+            "Each species has seasons and zones (Wildlife Management Units). Check the regulations every year, because they change.",
+            "Wear blaze orange where required, and never shoot unless you are certain of your target and what is behind it."
+          ],
+          "links": [
+            "hunt_regs",
+            "trespass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "water",
+      "icon": "🛶",
+      "title": "Rivers, lakes & paddling",
+      "summary": "Life jackets, cold water, the Bow River, and boat rules.",
+      "blocks": [
+        {
+          "h": "Cold, fast water",
+          "kind": "warn",
+          "p": [
+            "Mountain lakes and rivers in Alberta are very cold, even in July, because they come from snow and glaciers. Cold water can take away your strength in minutes.",
+            "The Bow and Elbow rivers in Calgary are cold and fast, especially in June. People drown here every year. Check river conditions and advisories before you go."
+          ],
+          "links": [
+            "calgary_river",
+            "cold_water"
+          ]
+        },
+        {
+          "h": "Life jackets",
+          "p": "By law, every boat, canoe, kayak and paddleboard must carry a Canadian-approved life jacket that fits each person on board. **In Calgary, a bylaw says you must wear it** on all rivers and waterways, with fines up to {calgary_lifejacket_fine}. Alcohol and drugs on the water are also illegal.",
+          "links": [
+            "tc_boating",
+            "calgary_river",
+            "calgary_river_access"
+          ]
+        },
+        {
+          "h": "Motor boats",
+          "p": "To drive any boat with a motor in Canada, including a small electric motor, you need proof of competency, usually the **Pleasure Craft Operator Card**. You get it for life by passing a test with a provider accredited by Transport Canada. Motor boats are not allowed on rivers inside Calgary, and some lakes do not allow motors.",
+          "links": [
+            "pcoc"
+          ]
+        },
+        {
+          "h": "Glenmore Reservoir",
+          "p": "Glenmore Reservoir in south Calgary is open for canoes, kayaks and sailboats from May 1 to October 31. It is a drinking water source, so swimming, paddleboards, inflatables, motors and pets are not allowed, and life jackets must be worn.",
+          "links": [
+            "glenmore"
+          ]
+        },
+        {
+          "h": "Stop invasive mussels",
+          "p": "If you bring a boat, canoe or paddleboard from somewhere else, clean, drain and dry it to stop invasive mussels. If you pass an open watercraft inspection station while carrying any boat, you must stop.",
+          "links": [
+            "mussels"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "winter",
+      "icon": "❄️",
+      "title": "Winter outdoors",
+      "summary": "Staying warm, skating and skiing, and avalanche safety.",
+      "blocks": [
+        {
+          "h": "Winter is a great season here",
+          "p": "Calgary has free outdoor skating rinks, cross-country ski trails in city parks and in Kananaskis, and downhill ski hills within 1 to 2 hours. Snowshoeing is easy to learn and cheap: you can rent snowshoes for a day.",
+          "links": [
+            "calgary_skating"
+          ]
+        },
+        {
+          "h": "Dress in layers",
+          "kind": "tip",
+          "list": [
+            "Base layer that keeps sweat away (wool or synthetic, not cotton)",
+            "Warm middle layer (fleece or wool)",
+            "Windproof outer jacket and pants",
+            "Hat, warm gloves or mittens, warm socks and winter boots",
+            "In wind, frostbite can happen in minutes. Check the weather and wind chill before going out."
+          ]
+        },
+        {
+          "h": "Avalanches",
+          "kind": "warn",
+          "p": [
+            "In the mountains, snow on steep slopes can slide. Avalanches kill people in Alberta and B.C. every winter. Many popular summer hiking trails cross avalanche terrain in winter.",
+            "If you go into the mountains in winter, check the daily Avalanche Canada forecast and choose trails that are safe in winter. Before you go into avalanche terrain, take an Avalanche Skills Training 1 (AST 1) course. It takes about 2 days and needs no experience."
+          ],
+          "links": [
+            "avalanche",
+            "ast"
+          ]
+        },
+        {
+          "h": "Winter driving",
+          "p": "Mountain highways can be icy or closed. Use winter tires and check road conditions on 511 Alberta before you leave. Carry warm clothes, water, a shovel and a charged phone.",
+          "links": [
+            "ab511"
+          ]
+        },
+        {
+          "h": "Ice safety",
+          "p": "Never walk on river ice or on storm ponds in your neighbourhood: the ice is unstable. Skate on City rinks, which are checked every day.",
+          "links": [
+            "calgary_ice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "safety",
+      "icon": "⚠️",
+      "title": "Safety: wildlife, fire, weather",
+      "summary": "Bears and other wildlife, fire bans, trip plans, and what to do if something goes wrong.",
+      "blocks": [
+        {
+          "h": "Emergencies",
+          "kind": "warn",
+          "list": [
+            "Call **911** for police, fire, ambulance or search and rescue. It is free and you can ask for an interpreter. In Kananaskis, say \"Kananaskis Country\" so you are connected to K-Country Emergency Services.",
+            "Many mountain valleys have no cell signal. A satellite messenger is a good investment if you hike often.",
+            "Before you leave, make a trip plan (where, who, when you will be back) and give it to someone you trust. The free AdventureSmart app helps."
+          ],
+          "links": [
+            "adventuresmart",
+            "k_safety"
+          ]
+        },
+        {
+          "h": "Bears",
+          "list": [
+            "Black bears and grizzly bears live in the mountains and foothills, and sometimes come close to Calgary.",
+            "Carry **bear spray** where it is easy to reach (not inside your backpack), and learn how to use it. It is sold at outdoor and hardware stores.",
+            "Make noise, stay in groups and keep children close.",
+            "If you see a bear, stay calm, do not run, and slowly back away. Never approach a bear for a photo."
+          ],
+          "links": [
+            "bearsmart",
+            "k_bears",
+            "pc_bears"
+          ]
+        },
+        {
+          "h": "Other wildlife",
+          "list": [
+            "Elk, moose and deer can be dangerous, especially in spring when they have babies and in fall during the mating season.",
+            "In national parks, stay at least 30 m (3 bus lengths) from elk, deer, sheep and moose, and at least 100 m (10 bus lengths) from bears, wolves, cougars and coyotes.",
+            "Feeding wild animals, including birds and squirrels, is illegal in national parks. Fines can be up to {pc_wildlife_fine}.",
+            "If you see an animal from your car, do not stop on the highway. Stay in your vehicle."
+          ],
+          "links": [
+            "pc_wildlife"
+          ]
+        },
+        {
+          "h": "Fire",
+          "p": [
+            "Wildfires are a serious danger in Alberta, especially in summer. Fire bans and fire restrictions happen often, and can change daily.",
+            "Check Alberta Fire Bans (website or app) before any campfire. Use fire pits where provided, keep fires small, and soak your fire with water until it is cold to touch. From March 1 to October 31, other burning in the forest area needs a free fire permit."
+          ],
+          "links": [
+            "firebans",
+            "fire_permit"
+          ]
+        },
+        {
+          "h": "Weather and altitude",
+          "list": [
+            "Thunderstorms are common on summer afternoons. Start early and come down if the sky darkens.",
+            "Snow can fall in the mountains in any month.",
+            "Sun is stronger at high altitude. Use sunscreen and drink lots of water."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "programs",
+      "icon": "🤝",
+      "title": "Learn, borrow & join",
+      "summary": "Beginner programs, places to rent gear, and groups that welcome newcomers.",
+      "blocks": [
+        {
+          "h": "Learn",
+          "list": [
+            "**Parks Canada Learn-to-Camp**: beginner programs that teach how to set up a tent, cook outside and stay safe. Dates and places change each year.",
+            "**Outdoor Council of Canada Field Leader (Hiking)**: a 2-day course offered through the University of Calgary that teaches you to lead safe group hikes.",
+            "**City of Calgary Fee Assistance**: if cost is a barrier, you may get up to 90% off City recreation programs and passes."
+          ],
+          "links": [
+            "pc_learn_camp",
+            "field_leader",
+            "calgary_fee_assist"
+          ]
+        },
+        {
+          "h": "Rent or borrow gear",
+          "list": [
+            "**University of Calgary Outdoor Centre**: rents thousands of items, such as tents, sleeping bags, canoes, skis and snowshoes. Call to ask about prices and who can rent.",
+            "Outdoor stores in Calgary and Canmore rent gear like skis, bikes and paddleboards.",
+            "Buy-and-sell sites and community groups are good places to find used gear cheaply."
+          ],
+          "links": [
+            "ucalgary_outdoor"
+          ]
+        },
+        {
+          "h": "Join a group",
+          "p": "Hiking clubs, cultural associations and newcomer agencies in Calgary sometimes run group trips. Going with a group is a safe and friendly way to start. Ask your settlement agency what is available."
+        },
+        {
+          "h": "Know a good program?",
+          "kind": "tip",
+          "p": "This list is short on purpose. If you run or know a program for newcomers, please suggest it on the About page."
+        }
+      ]
+    },
+    {
+      "id": "words",
+      "icon": "📖",
+      "title": "Words you will see",
+      "summary": "Short explanations of outdoor words and signs used in Alberta.",
+      "blocks": [
+        {
+          "terms": [
+            {
+              "t": "Crown land / public land",
+              "d": "Land owned by the government for the public. About 60% of Alberta. Parts of it that are not parks are usually called public land."
+            },
+            {
+              "t": "Green Area / White Area",
+              "d": "Green Area is the mostly forested, mostly public part of Alberta. White Area is the settled, mostly private farmland."
+            },
+            {
+              "t": "Random camping",
+              "d": "Camping outside a campground, usually on public land. Also called dispersed camping."
+            },
+            {
+              "t": "Trailhead",
+              "d": "The place where a trail starts, usually with parking and a sign."
+            },
+            {
+              "t": "Backcountry",
+              "d": "Areas far from roads and services. You usually need a permit to camp overnight in the backcountry of a park."
+            },
+            {
+              "t": "Frontcountry",
+              "d": "Areas near roads: campgrounds, picnic areas and short trails."
+            },
+            {
+              "t": "WIN",
+              "d": "Wildlife Identification Number. A one-time number ({win_fee}) you need before buying a fishing or hunting licence or the Public Lands Camping Pass in Alberta."
+            },
+            {
+              "t": "AlbertaRELM",
+              "d": "The official Alberta website for buying fishing and hunting licences and the Public Lands Camping Pass."
+            },
+            {
+              "t": "PAL",
+              "d": "Possession and Acquisition Licence. The federal licence you need to own or buy firearms."
+            },
+            {
+              "t": "PLUZ",
+              "d": "Public Land Use Zone. Public land with extra rules, especially for off-highway vehicles."
+            },
+            {
+              "t": "OHV",
+              "d": "Off-highway vehicle, such as a quad (ATV), dirt bike or side-by-side."
+            },
+            {
+              "t": "Catch and release",
+              "d": "You must put the fish back in the water alive."
+            },
+            {
+              "t": "Fire ban / fire restriction",
+              "d": "An order that bans or limits fires. Can change daily in summer."
+            },
+            {
+              "t": "Bear spray",
+              "d": "A strong pepper spray used to stop a bear that comes too close. Different from personal pepper spray."
+            },
+            {
+              "t": "Wind chill",
+              "d": "How cold the air feels on skin when it is windy. Used in winter weather forecasts."
+            },
+            {
+              "t": "Treaty 7",
+              "d": "The 1877 treaty between the Crown and First Nations of southern Alberta. Calgary is on Treaty 7 territory."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "places": {
+    "fish_creek": {
+      "desc": "Large free park in south Calgary with more than 100 km of trails. Day use only. Reachable by CTrain and bus."
+    },
+    "nose_hill": {
+      "desc": "Free prairie park in north Calgary with mountain views. Reachable by bus."
+    },
+    "edworthy": {
+      "desc": "Free city park with the Douglas Fir Trail, a forest trail above the Bow River."
+    },
+    "glenmore": {
+      "desc": "Reservoir in south Calgary for canoeing, kayaking and sailing. No swimming."
+    },
+    "glenbow": {
+      "desc": "Provincial park west of Calgary with river valley views. Free. You need a car."
+    },
+    "bragg": {
+      "desc": "West Bragg Creek has trails for hiking, biking and cross-country skiing. Kananaskis Conservation Pass needed for parking."
+    },
+    "bow_valley": {
+      "desc": "Provincial park at the start of the mountains, with easy trails and campgrounds. Kananaskis Conservation Pass needed."
+    },
+    "canmore": {
+      "desc": "Mountain town about 1 hour west of Calgary. Many trails and services. Buses from Calgary."
+    },
+    "kananaskis": {
+      "desc": "Peter Lougheed Provincial Park and Kananaskis Village: lakes, mountain hikes and campgrounds. Kananaskis Conservation Pass needed."
+    },
+    "banff": {
+      "desc": "Banff National Park, Canada's first national park. Parks Canada pass needed. Buses from Calgary and Roam Transit in the park."
+    }
+  },
+  "about": [
+    {
+      "h": "Why this exists",
+      "p": "Many people who move to Canada never learn that huge areas of land are open to them, that many parks are free, or which passes and licences they need. This guide explains those basics in your language and links to the official rules."
+    },
+    {
+      "h": "Accuracy",
+      "p": "Every rule in this guide comes from an official government or park source, linked on the page. Rules and prices change, so the official page always wins. The date each page was last checked is shown at the bottom."
+    },
+    {
+      "h": "Help fix it",
+      "p": "Found a mistake, a better translation, or an outdated price? Open an issue or a pull request on GitHub. Translations from native speakers are especially welcome. You do not need to know how to code: you can describe the fix in an issue."
+    },
+    {
+      "h": "What is next",
+      "p": "Version 1 covers Calgary and southern Alberta. The plan is to add other provinces and cities over time."
+    }
+  ]
+}
