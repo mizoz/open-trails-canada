@@ -19,7 +19,7 @@
   function fmt(text) {
     const values = state.facts.values;
     return esc(text)
-      .replace(/\{([a-z0-9_]+)\}/g, (m, k) => (k in values ? esc(values[k]) : m))
+      .replace(/\{([a-z0-9_]+)\}/g, (m, k) => (k in values ? `<bdi dir="ltr">${esc(values[k])}</bdi>` : m))
       .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
   }
 

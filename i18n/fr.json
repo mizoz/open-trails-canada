@@ -1,0 +1,755 @@
+{
+  "ui": {
+    "skip": "Aller au contenu",
+    "chooseLang": "Langue",
+    "home": "Accueil",
+    "heroTitle": "La nature autour de Calgary, expliquée aux nouveaux arrivants",
+    "heroText": "Les montagnes, les rivières, les parcs et de très grandes terres publiques sont à peu de route de Calgary. Une grande partie est gratuite. Ce guide explique les laissez-passer, les règles et la sécurité de base en mots simples. Chaque fois, il donne un lien vers la source officielle.",
+    "chipStart": "Commencer ici",
+    "chipMap": "Carte",
+    "chipSafety": "Sécurité",
+    "emergencyTitle": "En cas d'urgence, appelez le 911.",
+    "emergencyText": "Le 911 est gratuit et vous pouvez demander un interprète : dites « interpreter » et le nom de votre langue. À Kananaskis, dites « Kananaskis Country ». Dans beaucoup de zones de montagne, il n'y a pas de réseau cellulaire. Avant de partir, dites à quelqu'un où vous allez.",
+    "mapTitle": "Carte des lieux près de Calgary",
+    "mapSummary": "Des parcs de la ville, des parcs provinciaux et des parcs nationaux pour commencer, et comment s'y rendre.",
+    "mapIntro": "Voici de bons lieux pour une première visite : des parcs de la ville accessibles en autobus jusqu'aux Rocheuses, à environ 1 à 2 heures à l'ouest. Cliquez sur un lieu pour voir ce que c'est et quel laissez-passer il faut. Les points sur la carte sont approximatifs.",
+    "officialMapsTitle": "Utilisez les cartes officielles pour les règles et les limites",
+    "officialMapsText": "Cette carte sert seulement à trouver des lieux. Elle ne montre pas les limites des terres, les fermetures, les interdictions de feu ni les zones de chasse. Consultez les cartes et les alertes officielles avant de partir.",
+    "kind_city": "Parc de la ville (gratuit)",
+    "kind_provincial": "Parc provincial / Kananaskis",
+    "kind_national": "Parc national (laissez-passer de Parcs Canada)",
+    "kind_town": "Ville de montagne",
+    "kind_water": "Lac ou réservoir",
+    "officialSources": "Sources officielles",
+    "lastChecked": "Information vérifiée le",
+    "translationTitle": "À propos de cette traduction",
+    "translationNote": "Cette traduction a été faite avec l'aide d'une machine. Elle peut contenir des erreurs. Si une règle est importante (permis, amendes, sécurité), vérifiez la page officielle en lien. Vous voulez aider à la corriger ? Voyez la page À propos et corrections.",
+    "landAck": "Calgary se trouve sur les territoires traditionnels des peuples du Treaty 7 (Traité no 7) : la Confédération des Pieds-Noirs (Siksika, Piikani, Amskaapipiikani et Kainai), les Tsuut'ina et les Îyâxe Nakoda (Chiniki, Bearspaw et Goodstoney). Calgary accueille aussi l'Otipemisiwak Métis Government (gouvernement métis), districts 5 et 6.",
+    "disclaimer": "Open Trails Canada est un guide communautaire indépendant. Ce n'est pas un site du gouvernement. Les règles, les prix et les fermetures changent. Vérifiez toujours la source officielle en lien sur chaque page.",
+    "aboutLink": "À propos et corrections",
+    "aboutTitle": "À propos de ce guide"
+  },
+  "topics": [
+    {
+      "id": "start",
+      "icon": "🧭",
+      "title": "Commencer ici",
+      "summary": "Ce qui est gratuit, ce qui est payant, et un plan simple pour une première sortie.",
+      "blocks": [
+        {
+          "h": "Bonne nouvelle : beaucoup de choses sont gratuites",
+          "list": [
+            "**Les parcs de la ville sont gratuits.** Fish Creek Provincial Park, Nose Hill Park, Edworthy Park et les sentiers le long des rivières sont dans Calgary. Vous pouvez vous rendre à beaucoup d'entre eux avec Calgary Transit (transport en commun).",
+            "**La plus grande partie de l'Alberta est une terre publique.** Environ 60 % de la province est une terre de la Couronne : elle appartient au gouvernement, pour le public. Sur la plupart de ces terres, vous pouvez marcher, faire de la randonnée, pique-niquer et camper. Certaines activités demandent un laissez-passer, et certaines zones sont fermées ou louées. Voyez le guide Terres publiques.",
+            "**Les enfants entrent gratuitement dans les parcs nationaux.** Les jeunes de 17 ans et moins entrent gratuitement dans les lieux de Parcs Canada.",
+            "**Les nouveaux arrivants peuvent entrer gratuitement dans les parcs nationaux.** L'application gratuite Canoo donne l'entrée gratuite aux lieux de Parcs Canada pendant un an. Elle est pour les nouveaux résidents permanents (dans les 5 ans après être devenus résidents permanents) et les nouveaux citoyens (dans l'année qui suit leur cérémonie)."
+          ],
+          "links": [
+            "canoo"
+          ]
+        },
+        {
+          "h": "Les trois laissez-passer les plus demandés",
+          "list": [
+            "**Laissez-passer de Parcs Canada** : pour les parcs nationaux comme Banff, Yoho et Jasper. {pc_adult_day} par adulte par jour, ou {pc_group_day} par jour pour une famille ou un groupe de 7 personnes au plus dans un même véhicule. Le Laissez-passer découverte annuel pour une famille coûte {pc_discovery_family}.",
+            "**Kananaskis Conservation Pass** (laissez-passer de conservation de Kananaskis) : pour stationner dans Kananaskis Country et la vallée de la Bow, à environ 1 heure à l'ouest de Calgary. {kpass_day} par jour ou {kpass_year} par année, lié à votre plaque d'immatriculation.",
+            "**Public Lands Camping Pass** (laissez-passer de camping sur les terres publiques) : pour camper sur les terres publiques hors des terrains de camping, dans les contreforts et les montagnes. {pclcp_3day} pour 3 jours ou {pclcp_year} pour un an, par adulte."
+          ],
+          "links": [
+            "pc_fees",
+            "kpass",
+            "pclcp"
+          ]
+        },
+        {
+          "h": "Une première sortie simple",
+          "kind": "tip",
+          "list": [
+            "Commencez par un parc de la ville ou un sentier facile près de Canmore ou de Bragg Creek, avant d'essayer de longues randonnées en montagne.",
+            "Vérifiez la météo et l'état des sentiers la veille. En montagne, la météo change vite, même en été.",
+            "Apportez de l'eau, de la nourriture, un vêtement chaud, un imperméable, un téléphone bien chargé et une carte utilisable hors ligne.",
+            "À Kananaskis ou à Banff, ayez du chasse-ours (vaporisateur contre les ours) et sachez l'utiliser.",
+            "Dites à quelqu'un où vous allez et quand vous allez revenir."
+          ]
+        },
+        {
+          "h": "Pas besoin d'équipement cher pour commencer",
+          "p": "Des chaussures confortables, plusieurs couches de vêtements et un sac à dos suffisent pour la plupart des sentiers faciles. Vous pouvez louer ou emprunter des tentes, des skis et d'autre équipement. Voyez Apprendre, emprunter et participer."
+        }
+      ]
+    },
+    {
+      "id": "passes",
+      "icon": "🎟️",
+      "title": "Laissez-passer et frais",
+      "summary": "Quel laissez-passer il faut pour quel lieu, combien il coûte et comment l'acheter.",
+      "blocks": [
+        {
+          "h": "Parcs nationaux (Banff, Yoho, Kootenay, Jasper, Waterton)",
+          "p": [
+            "Pour vous arrêter dans un parc national, il faut un laissez-passer d'entrée de Parcs Canada. Vous pouvez l'acheter en ligne, aux postes d'entrée sur l'autoroute ou dans les centres d'accueil.",
+            "Par jour : {pc_adult_day} par adulte, {pc_senior_day} par aîné (65 ans et plus), ou {pc_group_day} par famille ou groupe (7 personnes au plus dans un même véhicule). Les jeunes de 17 ans et moins entrent gratuitement.",
+            "Le **Laissez-passer découverte de Parcs Canada** dure 12 mois et donne accès à plus de 80 lieux de Parcs Canada : {pc_discovery_adult} pour un adulte, {pc_discovery_senior} pour un aîné, ou {pc_discovery_family} pour une famille ou un groupe. Si vous y allez plus de 7 jours environ dans l'année, vous économisez de l'argent."
+          ],
+          "links": [
+            "pc_fees",
+            "pc_discovery"
+          ]
+        },
+        {
+          "h": "Entrée gratuite pour les nouveaux citoyens : Canoo",
+          "kind": "tip",
+          "p": "Canoo est une application gratuite de l'Institut pour la citoyenneté canadienne. Si vous êtes devenu résident permanent dans les 5 dernières années, ou citoyen dans la dernière année, elle peut vous donner l'entrée gratuite aux lieux de Parcs Canada pendant un an. Jusqu'à 4 de vos enfants de moins de 18 ans peuvent aussi en profiter. Elle ne couvre pas le camping, les sources thermales, les permis ni les visites guidées. Votre conjoint a besoin de son propre compte. Vérifiez les règles actuelles dans l'application.",
+          "links": [
+            "canoo"
+          ]
+        },
+        {
+          "h": "Kananaskis Conservation Pass",
+          "p": [
+            "Kananaskis Country est une grande région de montagnes à l'ouest de Calgary, avec beaucoup de sentiers, de lacs et de terrains de camping. Si vous stationnez un véhicule là, ou dans les parcs de la vallée de la Bow près de Canmore, il vous faut ce laissez-passer (Kananaskis Conservation Pass). Vous n'en avez pas besoin si vous faites seulement passer en voiture, ou si vous arrivez à pied ou à vélo.",
+            "Prix : {kpass_day} par jour par véhicule, ou {kpass_year} par année pour 3 véhicules au plus. Il est lié à votre plaque d'immatriculation. Achetez-le en ligne avant de partir, car souvent il n'y a pas de réseau cellulaire. Les membres des Premières Nations inscrits et certains Albertains à faible revenu peuvent l'avoir gratuitement."
+          ],
+          "links": [
+            "kpass",
+            "kpass_buy"
+          ]
+        },
+        {
+          "h": "Public Lands Camping Pass",
+          "p": [
+            "Il vous faut ce laissez-passer (Public Lands Camping Pass) si vous avez 18 ans ou plus et que vous campez sur les terres publiques du versant est des Rocheuses (de Grande Prairie à Waterton), hors d'un terrain de camping.",
+            "Prix : {pclcp_3day} pour 3 jours ou {pclcp_year} pour un an, par personne, plus de petits frais de traitement. Il vous faut aussi un numéro WIN ({win_fee}, une seule fois). Achetez-le sur AlbertaRELM. Vous n'en avez pas besoin pour une sortie d'une journée ni dans les terrains de camping payants."
+          ],
+          "links": [
+            "pclcp",
+            "relm"
+          ]
+        },
+        {
+          "h": "Parcs provinciaux de l'Alberta",
+          "p": "La plupart des parcs provinciaux n'ont pas de frais d'entrée pour une visite d'une journée. Vous payez les emplacements de camping, et il faut le laissez-passer de Kananaskis à Kananaskis et dans la vallée de la Bow. Réservez les emplacements de camping par le service de réservation d'Alberta Parks.",
+          "links": [
+            "ab_parks",
+            "ab_reserve"
+          ]
+        },
+        {
+          "h": "Permis de pêche et de chasse",
+          "p": "La pêche et la chasse demandent leurs propres permis. Voyez les guides Pêche et Chasse."
+        }
+      ]
+    },
+    {
+      "id": "hiking",
+      "icon": "🥾",
+      "title": "Randonnée et marche",
+      "summary": "Des lieux faciles pour commencer, comment y aller sans voiture, et les bonnes manières sur les sentiers.",
+      "blocks": [
+        {
+          "h": "Dans Calgary (gratuit, beaucoup accessibles en autobus ou en train)",
+          "list": [
+            "**Fish Creek Provincial Park** : un des plus grands parcs urbains du Canada, dans le sud de Calgary, avec plus de 100 km de sentiers. Utilisation de jour seulement.",
+            "**Nose Hill Park** : une prairie ouverte dans le nord de Calgary, avec une grande vue sur les montagnes quand le ciel est clair.",
+            "**Edworthy Park et le Douglas Fir Trail** : un sentier en forêt, avec des escaliers, au-dessus de la rivière Bow.",
+            "**Glenbow Ranch Provincial Park** : juste à l'ouest de la ville, avec une vue sur la vallée de la rivière et de larges chemins de gravier. Il faut une voiture pour y aller."
+          ],
+          "links": [
+            "calgary_parks",
+            "transit"
+          ]
+        },
+        {
+          "h": "Sorties d'une journée en montagne",
+          "p": [
+            "Canmore et Banff sont à environ 1 heure à 1 heure 30 à l'ouest, par l'autoroute 1. Bragg Creek et Kananaskis sont à 45 à 90 minutes. Commencez par des sentiers courts et populaires, avec beaucoup d'autres randonneurs.",
+            "Pas de voiture ? Des compagnies d'autobus privées font le trajet entre Calgary, Canmore et Banff. On-It Regional Transit a offert des autobus de Calgary vers Banff et Kananaskis en été (vérifiez l'horaire actuel). À Banff et à Canmore, les autobus Roam Transit vont aux départs de sentiers et aux lacs."
+          ],
+          "links": [
+            "onit",
+            "roam",
+            "ab_parks_trails"
+          ]
+        },
+        {
+          "h": "Les bonnes manières sur les sentiers au Canada",
+          "list": [
+            "Restez sur le sentier. Contourner les parties boueuses abîme les plantes et élargit les sentiers.",
+            "Rapportez tout ce que vous apportez, y compris les restes de nourriture et le papier de toilette.",
+            "Les chiens doivent être en laisse dans les parcs nationaux et dans la plupart des parcs provinciaux.",
+            "Ne cueillez pas de fleurs, ne prenez pas de roches ni de bois de cerf, et ne nourrissez pas les animaux. Dans les parcs, vous pouvez recevoir une amende.",
+            "Les randonneurs qui montent ont la priorité. Laissez passer les vélos et les chevaux quand c'est sécuritaire.",
+            "Faire jouer de la musique avec un haut-parleur est considéré comme impoli sur la plupart des sentiers."
+          ],
+          "links": [
+            "lnt"
+          ]
+        },
+        {
+          "h": "Quoi apporter (les « 10 essentiels »)",
+          "kind": "tip",
+          "list": [
+            "De l'eau et de la nourriture en plus",
+            "Un vêtement chaud et un imperméable, même en été",
+            "Une carte ou une application de carte hors ligne, et un téléphone chargé ou une batterie externe",
+            "Une lampe frontale ou une lampe de poche",
+            "Une trousse de premiers soins",
+            "Du chasse-ours à Kananaskis et dans les parcs de montagne",
+            "Protection contre le soleil : chapeau, lunettes de soleil, crème solaire",
+            "Un sifflet",
+            "Un canif",
+            "Une couverture de survie"
+          ],
+          "links": [
+            "adventuresmart"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "camping",
+      "icon": "⛺",
+      "title": "Camping",
+      "summary": "Les terrains de camping, les dates de réservation, et le camping gratuit sur les terres publiques.",
+      "blocks": [
+        {
+          "h": "Les terrains de camping : la façon la plus facile de commencer",
+          "p": [
+            "Les terrains de camping ont des emplacements numérotés, des toilettes, et souvent de l'eau et du personnel. Vous réservez un emplacement en ligne. Les emplacements populaires pour les fins de semaine d'été se remplissent vite quand les réservations ouvrent, souvent des mois à l'avance. C'est plus facile en semaine et en septembre.",
+            "Réservez les emplacements dans les parcs provinciaux de l'Alberta (y compris Kananaskis) par Alberta Parks. Réservez les emplacements dans les parcs nationaux (Banff, Jasper et autres) par Parcs Canada."
+          ],
+          "links": [
+            "ab_reserve",
+            "pc_reserve"
+          ]
+        },
+        {
+          "h": "Jamais campé ? Essayez un programme pour débutants",
+          "kind": "tip",
+          "p": "Parcs Canada offre des activités Initiation au camping à certains endroits. Certains groupes prêtent de l'équipement ou organisent des sorties pour les nouveaux arrivants. Voyez Apprendre, emprunter et participer.",
+          "links": [
+            "pc_learn_camp"
+          ]
+        },
+        {
+          "h": "Camper sur les terres publiques (camping sauvage)",
+          "p": [
+            "Vous pouvez aussi camper hors des terrains de camping sur la plupart des terres publiques. On appelle cela « random camping » ou « dispersed camping » (camping sauvage). Il n'y a pas de toilettes, pas d'eau et pas de personnel. Vous devez donc être autonome.",
+            "Sur le versant est des Rocheuses, les adultes ont besoin du Public Lands Camping Pass ({pclcp_3day} pour 3 jours ou {pclcp_year} pour un an)."
+          ],
+          "list": [
+            "Restez au plus {random_max_days} jours au même endroit. Ensuite, allez à au moins 1 km de là pendant 72 heures.",
+            "Campez à au moins 30 m des lacs et des ruisseaux, et à au moins 100 m des sites de pétrole et de gaz.",
+            "Ne campez pas à moins de 1 km d'un parc provincial, d'une aire de loisirs ou d'un terrain de camping. Dans les zones de Kananaskis, McLean Creek, Sibbald et Cataract Creek, ne campez pas à moins de 1 km d'une route.",
+            "Vérifiez s'il y a une interdiction de feu avant d'allumer un feu.",
+            "Rapportez tous vos déchets à la maison. Enterrez les excréments humains à au moins 15 cm de profondeur et à au moins 70 m de l'eau. Rapportez le papier de toilette."
+          ],
+          "links": [
+            "pclcp",
+            "random_camping",
+            "firebans"
+          ]
+        },
+        {
+          "h": "La nourriture et les ours",
+          "kind": "warn",
+          "p": "Ne gardez jamais de nourriture, de déchets, de dentifrice ni de matériel de cuisine dans votre tente. Rangez-les dans un véhicule à parois rigides fermé à clé ou dans un casier à l'épreuve des ours. Dans les terrains de camping, laisser de la nourriture dehors peut vous valoir une amende, car les ours qui mangent de la nourriture humaine doivent souvent être abattus."
+        }
+      ]
+    },
+    {
+      "id": "public-land",
+      "icon": "🌲",
+      "title": "Terres publiques (de la Couronne)",
+      "summary": "Ce que veut dire « terre de la Couronne », où vous pouvez aller, et comment savoir si une terre est publique ou privée.",
+      "blocks": [
+        {
+          "h": "Qu'est-ce qu'une terre de la Couronne ?",
+          "p": [
+            "Une « terre de la Couronne » (Crown land) est une terre qui appartient au gouvernement, pour le public. Environ 60 % de l'Alberta est une terre de la Couronne. Cela comprend les parcs, mais aussi de très grandes **terres publiques** dans les forêts et les contreforts à l'ouest de Calgary et dans le nord.",
+            "Beaucoup de nouveaux arrivants ne le savent pas : sur la plupart des terres publiques, tout le monde peut marcher, faire de la randonnée, du vélo, pique-niquer, observer les oiseaux et camper, sans demander la permission."
+          ],
+          "links": [
+            "public_land",
+            "crown_vision"
+          ]
+        },
+        {
+          "h": "Green Area et White Area (zone verte et zone blanche)",
+          "list": [
+            "**Green Area (zone verte)** : surtout de la forêt dans le nord, et les montagnes et les contreforts. La plus grande partie de ces terres est publique et ouverte aux loisirs.",
+            "**White Area (zone blanche)** : les terres agricoles habitées du centre, du sud et de l'est de l'Alberta, y compris Calgary. Ici, la plupart des terres sont privées. Il y a quelques terres publiques, mais une grande partie est louée à des éleveurs."
+          ]
+        },
+        {
+          "h": "Terres privées : demandez toujours avant",
+          "kind": "warn",
+          "p": [
+            "En Alberta, il faut la permission du propriétaire ou de l'occupant pour aller sur une terre privée, y compris pour chasser. Entrer sans permission est une intrusion, et vous pouvez recevoir une amende.",
+            "Certaines terres publiques sont louées à des éleveurs pour le pâturage. En général, vous pouvez les utiliser pour les loisirs, mais vous devez d'abord contacter le locataire. Le locataire doit permettre un accès raisonnable, sauf si cela met en danger la terre, les cultures ou les animaux. La carte web officielle montre qui contacter. Demandez quelques jours avant d'y aller."
+          ],
+          "links": [
+            "trespass",
+            "grazing_access"
+          ]
+        },
+        {
+          "h": "Public Land Use Zones (PLUZ) (zones d'utilisation des terres publiques)",
+          "p": "Certaines terres publiques près de Calgary sont dans une Public Land Use Zone (PLUZ), par exemple Kananaskis, McLean Creek et Sibbald. Ces zones ont des règles en plus. Les véhicules hors route (VHR) peuvent utiliser seulement les sentiers balisés, et certaines zones ferment à certaines saisons. Sur les terres publiques, les conducteurs de VHR doivent porter un casque, et le véhicule doit être immatriculé et assuré.",
+          "links": [
+            "pluz",
+            "ohv"
+          ]
+        },
+        {
+          "h": "Comment savoir sur quelle terre vous êtes",
+          "kind": "tip",
+          "list": [
+            "Utilisez les cartes officielles de loisirs sur les terres publiques de l'Alberta. Elles montrent les sentiers, les zones et les fermetures.",
+            "Téléchargez une carte hors ligne avant de perdre le réseau cellulaire.",
+            "Des panneaux « No trespassing » (défense d'entrer), « Private property » (propriété privée) ou avec un numéro de bail veulent dire que vous ne devez pas entrer sans permission.",
+            "Si vous n'êtes pas sûr, n'entrez pas. Demandez au comté ou au bureau des terres."
+          ],
+          "links": [
+            "trail_maps"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fishing",
+      "icon": "🎣",
+      "title": "Pêche",
+      "summary": "Qui a besoin d'un permis, comment l'obtenir, et les règles qui surprennent les nouveaux arrivants.",
+      "blocks": [
+        {
+          "h": "Ai-je besoin d'un permis ?",
+          "p": [
+            "Oui, si vous avez 16 ans ou plus. Les résidents de l'Alberta de moins de 16 ans ou de 65 ans et plus peuvent pêcher sans permis, mais ils doivent quand même suivre toutes les règles.",
+            "Pour la pêche, vous êtes résident de l'Alberta si vous êtes citoyen canadien ou résident permanent et que votre résidence principale est en Alberta. D'abord, vous obtenez un **WIN** (Wildlife Identification Number, numéro d'identification faunique, {win_fee}, une seule fois). Ensuite, vous achetez un permis de pêche sportive : {fish_resident} par année pour les résidents. Vous pouvez acheter les deux en ligne sur AlbertaRELM ou dans beaucoup de magasins de sport et de quincailleries."
+          ],
+          "links": [
+            "fish_licence",
+            "relm"
+          ]
+        },
+        {
+          "h": "Fins de semaine de pêche gratuite",
+          "kind": "tip",
+          "p": "L'Alberta a en général deux Family Fishing Weekends (fins de semaine de pêche en famille) chaque année, en février et en juillet. Pendant ces fins de semaine, tout le monde peut pêcher en Alberta sans permis. Toutes les autres règles s'appliquent quand même, et les parcs nationaux ne sont pas inclus. Vérifiez la page officielle pour les dates de l'an prochain.",
+          "links": [
+            "fish_free"
+          ]
+        },
+        {
+          "h": "Des règles qui surprennent",
+          "list": [
+            "Chaque lac et chaque rivière a ses propres règles : saisons d'ouverture, tailles limites, nombre de poissons que vous pouvez garder, et règles sur les appâts. Dans beaucoup d'eaux près de Calgary, il faut remettre à l'eau certaines espèces.",
+            "Avant de partir, vérifiez les règles pour l'endroit exact où vous allez pêcher. Utilisez le guide officiel des règlements ou la carte officielle des règlements de pêche.",
+            "L'omble à tête plate (bull trout), le poisson emblème de l'Alberta, est protégé. Si vous en attrapez un, vous devez le remettre à l'eau.",
+            "Dans les parcs nationaux comme Banff, il faut un **permis de pêche de Parcs Canada** ({pc_fish_day} par jour ou {pc_fish_year} par année), en plus de l'entrée au parc. Un permis de l'Alberta n'est pas valide là.",
+            "Les agents de la faune (Fish and Wildlife) vérifient les permis. Ayez votre permis sur vous (sur papier ou sur votre téléphone)."
+          ],
+          "links": [
+            "fish_regs",
+            "fish_map",
+            "pc_fishing"
+          ]
+        },
+        {
+          "h": "Où commencer près de Calgary",
+          "p": "La rivière Bow, qui traverse Calgary, est célèbre pour la pêche à la truite. Les étangs et les lacs ensemencés sont souvent plus faciles pour les débutants. L'Alberta publie la liste des eaux ensemencées.",
+          "links": [
+            "fish_stocking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hunting",
+      "icon": "🦌",
+      "title": "Chasse",
+      "summary": "Les cours, les permis et les autorisations qu'il faut avant votre première chasse.",
+      "blocks": [
+        {
+          "h": "La chasse est encadrée, mais vous pouvez l'apprendre",
+          "p": "Beaucoup d'Albertains chassent pour se nourrir. Si vous voulez apprendre, préparez-vous à l'avance : il faut un cours, des permis et, si vous chassez avec une arme à feu, un permis fédéral d'armes à feu. Pour la plupart des chasses, il faut aussi la permission d'entrer sur une terre privée."
+        },
+        {
+          "h": "Étape 1 : Formation des chasseurs",
+          "p": "En Alberta, les personnes qui chassent pour la première fois doivent réussir le cours **Alberta Conservation and Hunter Education** (formation en conservation et en chasse) avant d'acheter un permis de chasse. Vous devez avoir au moins 12 ans (10 ans pour le gibier à plumes). Il vous faut aussi un numéro WIN, le même que pour la pêche.",
+          "links": [
+            "hunter_ed",
+            "relm"
+          ]
+        },
+        {
+          "h": "Étape 2 : Permis d'armes à feu (PAL)",
+          "p": "Pour posséder ou acheter une arme à feu ou des munitions au Canada, il faut un **permis de possession et d'acquisition (PPA, en anglais PAL)** de la GRC. D'abord, vous réussissez le Cours canadien de sécurité dans le maniement des armes à feu (CCSMAF). Obtenir un PPA peut prendre plusieurs semaines ou plusieurs mois, alors commencez tôt. Les arcs ont des règles à part dans les règlements de chasse.",
+          "links": [
+            "pal"
+          ]
+        },
+        {
+          "h": "Étape 3 : Permis et résidence",
+          "p": [
+            "Pour la chasse, vous êtes résident de l'Alberta si votre résidence principale est en Alberta **et** que vous êtes citoyen canadien ou résident permanent, ou que vous vivez au Canada depuis les 12 derniers mois. Les résidents permanents peuvent donc acheter des permis de résident.",
+            "Pour la plupart des chasses, il faut un certificat de faune (wildlife certificate) et un permis ou une étiquette pour chaque espèce. Certains permis sont donnés par tirage au sort. Il faut s'inscrire au tirage des mois à l'avance."
+          ],
+          "links": [
+            "hunt_regs"
+          ]
+        },
+        {
+          "h": "Règles importantes",
+          "kind": "warn",
+          "list": [
+            "Il faut la permission du propriétaire ou de l'occupant pour chasser sur une terre privée.",
+            "La chasse est interdite dans les parcs nationaux, et limitée dans beaucoup de parcs provinciaux.",
+            "Chaque espèce a ses saisons et ses zones (Wildlife Management Units, unités de gestion de la faune). Vérifiez les règlements chaque année, car ils changent.",
+            "Portez de l'orange vif là où c'est obligatoire. Ne tirez jamais si vous n'êtes pas certain de votre cible et de ce qu'il y a derrière."
+          ],
+          "links": [
+            "hunt_regs",
+            "trespass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "water",
+      "icon": "🛶",
+      "title": "Rivières, lacs et canot",
+      "summary": "Les gilets de sauvetage, l'eau froide, la rivière Bow et les règles pour les bateaux.",
+      "blocks": [
+        {
+          "h": "De l'eau froide et rapide",
+          "kind": "warn",
+          "p": [
+            "Les lacs et les rivières de montagne en Alberta sont très froids, même en juillet, parce que l'eau vient de la neige et des glaciers. L'eau froide peut vous enlever vos forces en quelques minutes.",
+            "Les rivières Bow et Elbow, à Calgary, sont froides et rapides, surtout en juin. Des gens s'y noient chaque année. Vérifiez l'état des rivières et les avis avant de partir."
+          ],
+          "links": [
+            "calgary_river",
+            "cold_water"
+          ]
+        },
+        {
+          "h": "Gilets de sauvetage",
+          "p": "Selon la loi, chaque bateau, canot, kayak et planche à pagaie doit avoir à bord un gilet de sauvetage approuvé au Canada, à la bonne taille pour chaque personne. **À Calgary, un règlement municipal oblige à le porter** sur toutes les rivières et tous les cours d'eau. Les amendes vont jusqu'à {calgary_lifejacket_fine}. L'alcool et les drogues sur l'eau sont aussi illégaux.",
+          "links": [
+            "tc_boating",
+            "calgary_river",
+            "calgary_river_access"
+          ]
+        },
+        {
+          "h": "Bateaux à moteur",
+          "p": "Pour conduire un bateau à moteur au Canada, même avec un petit moteur électrique, il faut une preuve de compétence, en général la **Carte de conducteur d'embarcation de plaisance**. Vous l'obtenez pour la vie en réussissant un examen avec un fournisseur agréé par Transports Canada. Les bateaux à moteur sont interdits sur les rivières dans Calgary, et certains lacs n'acceptent pas les moteurs.",
+          "links": [
+            "pcoc"
+          ]
+        },
+        {
+          "h": "Glenmore Reservoir (réservoir Glenmore)",
+          "p": "Le Glenmore Reservoir, dans le sud de Calgary, est ouvert aux canots, aux kayaks et aux voiliers du 1er mai au 31 octobre. C'est une source d'eau potable. Donc la baignade, les planches à pagaie, les objets gonflables, les moteurs et les animaux de compagnie sont interdits, et il faut porter un gilet de sauvetage.",
+          "links": [
+            "glenmore"
+          ]
+        },
+        {
+          "h": "Arrêtez les moules envahissantes",
+          "p": "Si vous apportez un bateau, un canot ou une planche à pagaie d'un autre endroit, nettoyez-le, videz-le et faites-le sécher pour arrêter les moules envahissantes. Si vous passez devant un poste d'inspection des embarcations ouvert avec n'importe quel bateau, vous devez vous arrêter.",
+          "links": [
+            "mussels"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "winter",
+      "icon": "❄️",
+      "title": "Dehors en hiver",
+      "summary": "Rester au chaud, le patin et le ski, et la sécurité en avalanche.",
+      "blocks": [
+        {
+          "h": "L'hiver est une belle saison ici",
+          "p": "Calgary a des patinoires extérieures gratuites, des pistes de ski de fond dans les parcs de la ville et à Kananaskis, et des centres de ski alpin à 1 à 2 heures de route. La raquette est facile à apprendre et pas chère : vous pouvez louer des raquettes pour une journée.",
+          "links": [
+            "calgary_skating"
+          ]
+        },
+        {
+          "h": "Habillez-vous en couches",
+          "kind": "tip",
+          "list": [
+            "Une première couche qui éloigne la sueur (laine ou synthétique, pas de coton)",
+            "Une couche du milieu chaude (polar ou laine)",
+            "Un manteau et un pantalon coupe-vent",
+            "Une tuque, des gants ou des mitaines chauds, des bas chauds et des bottes d'hiver",
+            "Avec le vent, les engelures peuvent arriver en quelques minutes. Vérifiez la météo et le refroidissement éolien avant de sortir."
+          ]
+        },
+        {
+          "h": "Avalanches",
+          "kind": "warn",
+          "p": [
+            "En montagne, la neige sur les pentes raides peut glisser. Chaque hiver, des avalanches tuent des gens en Alberta et en Colombie-Britannique. Beaucoup de sentiers de randonnée populaires en été traversent des terrains d'avalanche en hiver.",
+            "Si vous allez en montagne en hiver, consultez chaque jour les prévisions d'Avalanche Canada et choisissez des sentiers sécuritaires en hiver. Avant d'aller en terrain d'avalanche, suivez un cours Avalanche Skills Training 1 (AST 1, formation en sécurité avalanche). Il dure environ 2 jours et ne demande aucune expérience."
+          ],
+          "links": [
+            "avalanche",
+            "ast"
+          ]
+        },
+        {
+          "h": "Conduire en hiver",
+          "p": "Les autoroutes de montagne peuvent être glacées ou fermées. Utilisez des pneus d'hiver et vérifiez l'état des routes sur 511 Alberta avant de partir. Ayez des vêtements chauds, de l'eau, une pelle et un téléphone chargé.",
+          "links": [
+            "ab511"
+          ]
+        },
+        {
+          "h": "Sécurité sur la glace",
+          "p": "Ne marchez jamais sur la glace des rivières ni sur les bassins d'eaux pluviales de votre quartier : la glace n'est pas stable. Patinez sur les patinoires de la Ville, qui sont vérifiées chaque jour.",
+          "links": [
+            "calgary_ice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "safety",
+      "icon": "⚠️",
+      "title": "Sécurité : animaux, feu, météo",
+      "summary": "Les ours et les autres animaux sauvages, les interdictions de feu, les plans de sortie, et quoi faire en cas de problème.",
+      "blocks": [
+        {
+          "h": "Urgences",
+          "kind": "warn",
+          "list": [
+            "Appelez le **911** pour la police, les pompiers, une ambulance ou les recherches et sauvetage. C'est gratuit et vous pouvez demander un interprète. À Kananaskis, dites « Kananaskis Country » pour être mis en contact avec K-Country Emergency Services (services d'urgence).",
+            "Dans beaucoup de vallées de montagne, il n'y a pas de réseau cellulaire. Un appareil de messagerie par satellite est un bon achat si vous faites souvent de la randonnée.",
+            "Avant de partir, faites un plan de sortie (où, avec qui, quand vous allez revenir) et donnez-le à une personne de confiance. L'application gratuite AdventureSmart peut vous aider."
+          ],
+          "links": [
+            "adventuresmart",
+            "k_safety"
+          ]
+        },
+        {
+          "h": "Ours",
+          "list": [
+            "Des ours noirs et des grizzlis vivent dans les montagnes et les contreforts, et ils viennent parfois près de Calgary.",
+            "Ayez du **chasse-ours** (vaporisateur contre les ours) facile à attraper (pas dans votre sac à dos), et apprenez à l'utiliser. On en vend dans les magasins de plein air et les quincailleries.",
+            "Faites du bruit, restez en groupe et gardez les enfants près de vous.",
+            "Si vous voyez un ours, restez calme, ne courez pas et reculez lentement. Ne vous approchez jamais d'un ours pour prendre une photo."
+          ],
+          "links": [
+            "bearsmart",
+            "k_bears",
+            "pc_bears"
+          ]
+        },
+        {
+          "h": "Autres animaux sauvages",
+          "list": [
+            "Les wapitis, les orignaux et les cerfs peuvent être dangereux, surtout au printemps quand ils ont des petits, et à l'automne pendant la saison des amours.",
+            "Dans les parcs nationaux, restez à au moins 30 m (3 longueurs d'autobus) des wapitis, des cerfs, des mouflons et des orignaux, et à au moins 100 m (10 longueurs d'autobus) des ours, des loups, des couguars et des coyotes.",
+            "Nourrir les animaux sauvages, y compris les oiseaux et les écureuils, est illégal dans les parcs nationaux. Les amendes peuvent aller jusqu'à {pc_wildlife_fine}.",
+            "Si vous voyez un animal depuis votre voiture, ne vous arrêtez pas sur l'autoroute. Restez dans votre véhicule."
+          ],
+          "links": [
+            "pc_wildlife"
+          ]
+        },
+        {
+          "h": "Feu",
+          "p": [
+            "Les feux de forêt sont un danger sérieux en Alberta, surtout en été. Les interdictions et les restrictions de feu sont fréquentes et peuvent changer chaque jour.",
+            "Consultez Alberta Fire Bans (site web ou application) avant tout feu de camp. Utilisez les foyers prévus quand il y en a, faites de petits feux, et arrosez votre feu avec de l'eau jusqu'à ce qu'il soit froid au toucher. Du 1er mars au 31 octobre, tout autre brûlage dans la zone forestière demande un permis de brûlage gratuit."
+          ],
+          "links": [
+            "firebans",
+            "fire_permit"
+          ]
+        },
+        {
+          "h": "Météo et altitude",
+          "list": [
+            "Les orages sont fréquents les après-midi d'été. Partez tôt et redescendez si le ciel devient sombre.",
+            "En montagne, il peut neiger n'importe quel mois.",
+            "Le soleil est plus fort en altitude. Mettez de la crème solaire et buvez beaucoup d'eau."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "programs",
+      "icon": "🤝",
+      "title": "Apprendre, emprunter et participer",
+      "summary": "Des programmes pour débutants, des endroits où louer de l'équipement, et des groupes qui accueillent les nouveaux arrivants.",
+      "blocks": [
+        {
+          "h": "Apprendre",
+          "list": [
+            "**Initiation au camping de Parcs Canada** : des programmes pour débutants qui montrent comment monter une tente, cuisiner dehors et rester en sécurité. Les dates et les lieux changent chaque année.",
+            "**Outdoor Council of Canada Field Leader (Hiking)** (chef de groupe en randonnée) : un cours de 2 jours offert par l'Université de Calgary, qui vous apprend à guider des randonnées de groupe sécuritaires.",
+            "**City of Calgary Fee Assistance** (aide financière de la Ville de Calgary) : si le prix est un obstacle, vous pouvez avoir jusqu'à 90 % de rabais sur les programmes de loisirs et les laissez-passer de la Ville."
+          ],
+          "links": [
+            "pc_learn_camp",
+            "field_leader",
+            "calgary_fee_assist"
+          ]
+        },
+        {
+          "h": "Louer ou emprunter de l'équipement",
+          "list": [
+            "**University of Calgary Outdoor Centre** (centre de plein air de l'Université de Calgary) : loue des milliers d'articles, comme des tentes, des sacs de couchage, des canots, des skis et des raquettes. Appelez pour connaître les prix et qui peut louer.",
+            "Les magasins de plein air de Calgary et de Canmore louent de l'équipement comme des skis, des vélos et des planches à pagaie.",
+            "Les sites d'achat et de vente et les groupes communautaires sont de bons endroits pour trouver de l'équipement usagé pas cher."
+          ],
+          "links": [
+            "ucalgary_outdoor"
+          ]
+        },
+        {
+          "h": "Joindre un groupe",
+          "p": "À Calgary, des clubs de randonnée, des associations culturelles et des organismes pour nouveaux arrivants organisent parfois des sorties de groupe. Partir en groupe est une façon sécuritaire et sympathique de commencer. Demandez à votre organisme d'aide à l'établissement ce qui est offert."
+        },
+        {
+          "h": "Vous connaissez un bon programme ?",
+          "kind": "tip",
+          "p": "Cette liste est courte exprès. Si vous gérez ou connaissez un programme pour les nouveaux arrivants, proposez-le sur la page À propos."
+        }
+      ]
+    },
+    {
+      "id": "words",
+      "icon": "📖",
+      "title": "Mots que vous allez voir",
+      "summary": "De courtes explications des mots et des panneaux de plein air utilisés en Alberta.",
+      "blocks": [
+        {
+          "terms": [
+            {
+              "t": "Crown land / public land — terres de la Couronne / terres publiques",
+              "d": "Terres qui appartiennent au gouvernement, pour le public. Environ 60 % de l'Alberta. Les parties qui ne sont pas des parcs s'appellent en général terres publiques."
+            },
+            {
+              "t": "Green Area / White Area — zone verte / zone blanche",
+              "d": "La zone verte est la partie de l'Alberta surtout couverte de forêt et surtout publique. La zone blanche est la partie habitée, faite surtout de terres agricoles privées."
+            },
+            {
+              "t": "Random camping — camping sauvage",
+              "d": "Camper hors d'un terrain de camping, en général sur une terre publique. On dit aussi dispersed camping."
+            },
+            {
+              "t": "Trailhead — départ de sentier",
+              "d": "L'endroit où un sentier commence, en général avec un stationnement et un panneau."
+            },
+            {
+              "t": "Backcountry — arrière-pays",
+              "d": "Des zones loin des routes et des services. En général, il faut un permis pour camper la nuit dans l'arrière-pays d'un parc."
+            },
+            {
+              "t": "Frontcountry — zone accessible en voiture",
+              "d": "Des zones près des routes : terrains de camping, aires de pique-nique et sentiers courts."
+            },
+            {
+              "t": "WIN — numéro d'identification faunique",
+              "d": "Wildlife Identification Number. Un numéro que vous obtenez une seule fois ({win_fee}). Il le faut avant d'acheter un permis de pêche ou de chasse ou le Public Lands Camping Pass en Alberta."
+            },
+            {
+              "t": "AlbertaRELM",
+              "d": "Le site web officiel de l'Alberta pour acheter les permis de pêche et de chasse et le Public Lands Camping Pass."
+            },
+            {
+              "t": "PAL — permis de possession et d'acquisition (PPA)",
+              "d": "Possession and Acquisition Licence. Le permis fédéral qu'il faut pour posséder ou acheter des armes à feu."
+            },
+            {
+              "t": "PLUZ — zone d'utilisation des terres publiques",
+              "d": "Public Land Use Zone. Une terre publique avec des règles en plus, surtout pour les véhicules hors route."
+            },
+            {
+              "t": "OHV — véhicule hors route (VHR)",
+              "d": "Off-highway vehicle : par exemple un quad (VTT), une moto hors route ou un côte à côte."
+            },
+            {
+              "t": "Catch and release — pêche avec remise à l'eau",
+              "d": "Vous devez remettre le poisson vivant dans l'eau."
+            },
+            {
+              "t": "Fire ban / fire restriction — interdiction de feu / restriction de feu",
+              "d": "Un ordre qui interdit ou limite les feux. Peut changer chaque jour en été."
+            },
+            {
+              "t": "Bear spray — chasse-ours",
+              "d": "Un vaporisateur au poivre très fort, utilisé pour arrêter un ours qui vient trop près. Ce n'est pas le même produit que le poivre de Cayenne en vaporisateur pour se défendre."
+            },
+            {
+              "t": "Wind chill — refroidissement éolien",
+              "d": "Le froid que l'on sent sur la peau quand il vente. Utilisé dans les prévisions météo de l'hiver."
+            },
+            {
+              "t": "Treaty 7 — Traité no 7",
+              "d": "Le traité de 1877 entre la Couronne et les Premières Nations du sud de l'Alberta. Calgary se trouve sur le territoire du Traité no 7."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "places": {
+    "fish_creek": {
+      "desc": "Grand parc gratuit dans le sud de Calgary, avec plus de 100 km de sentiers. Utilisation de jour seulement. Accessible en CTrain et en autobus."
+    },
+    "nose_hill": {
+      "desc": "Parc de prairie gratuit dans le nord de Calgary, avec vue sur les montagnes. Accessible en autobus."
+    },
+    "edworthy": {
+      "desc": "Parc gratuit de la ville avec le Douglas Fir Trail, un sentier en forêt au-dessus de la rivière Bow."
+    },
+    "glenmore": {
+      "desc": "Réservoir dans le sud de Calgary pour le canot, le kayak et la voile. Baignade interdite."
+    },
+    "glenbow": {
+      "desc": "Parc provincial à l'ouest de Calgary, avec vue sur la vallée de la rivière. Gratuit. Il faut une voiture."
+    },
+    "bragg": {
+      "desc": "West Bragg Creek a des sentiers pour la randonnée, le vélo et le ski de fond. Il faut le Kananaskis Conservation Pass pour stationner."
+    },
+    "bow_valley": {
+      "desc": "Parc provincial au début des montagnes, avec des sentiers faciles et des terrains de camping. Il faut le Kananaskis Conservation Pass."
+    },
+    "canmore": {
+      "desc": "Ville de montagne à environ 1 heure à l'ouest de Calgary. Beaucoup de sentiers et de services. Autobus depuis Calgary."
+    },
+    "kananaskis": {
+      "desc": "Peter Lougheed Provincial Park et Kananaskis Village : lacs, randonnées en montagne et terrains de camping. Il faut le Kananaskis Conservation Pass."
+    },
+    "banff": {
+      "desc": "Parc national Banff, le premier parc national du Canada. Il faut un laissez-passer de Parcs Canada. Autobus depuis Calgary, et Roam Transit dans le parc."
+    }
+  },
+  "about": [
+    {
+      "h": "Pourquoi ce guide existe",
+      "p": "Beaucoup de personnes qui arrivent au Canada n'apprennent jamais que de très grandes terres leur sont ouvertes, que beaucoup de parcs sont gratuits, ni quels laissez-passer et permis il leur faut. Ce guide explique ces bases dans votre langue et donne des liens vers les règles officielles."
+    },
+    {
+      "h": "Exactitude",
+      "p": "Chaque règle de ce guide vient d'une source officielle d'un gouvernement ou d'un parc, en lien sur la page. Les règles et les prix changent, donc c'est toujours la page officielle qui compte. La date de la dernière vérification de chaque page est indiquée en bas."
+    },
+    {
+      "h": "Aidez à corriger",
+      "p": "Vous avez trouvé une erreur, une meilleure traduction ou un prix qui n'est plus à jour ? Ouvrez une « issue » ou une « pull request » sur GitHub. Les traductions faites par des locuteurs natifs sont particulièrement bienvenues. Pas besoin de savoir programmer : vous pouvez décrire la correction dans une « issue »."
+    },
+    {
+      "h": "La suite",
+      "p": "La version 1 couvre Calgary et le sud de l'Alberta. Le plan est d'ajouter d'autres provinces et d'autres villes avec le temps."
+    }
+  ]
+}

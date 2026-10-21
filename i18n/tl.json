@@ -1,0 +1,755 @@
+{
+  "ui": {
+    "skip": "Lumaktaw sa nilalaman",
+    "chooseLang": "Wika",
+    "home": "Home",
+    "heroTitle": "Ang outdoors sa paligid ng Calgary, ipinaliwanag para sa mga bagong dating",
+    "heroText": "Malapit lang sa Calgary ang mga bundok, ilog, park at napakalaking lugar ng public land, at marami rito ay libre. Ipinapaliwanag ng gabay na ito ang mga pass, patakaran at basic na kaligtasan sa simpleng salita, at may link sa opisyal na source bawat beses.",
+    "chipStart": "Magsimula rito",
+    "chipMap": "Mapa",
+    "chipSafety": "Kaligtasan",
+    "emergencyTitle": "Kapag may emergency, tumawag sa 911.",
+    "emergencyText": "Libre ang 911 at puwede kang humingi ng interpreter: sabihin ang \"interpreter\" at ang pangalan ng wika mo. Sa Kananaskis, sabihin ang \"Kananaskis Country\". Maraming lugar sa bundok ang walang signal ng cellphone, kaya sabihin sa isang tao kung saan ka pupunta bago ka umalis.",
+    "mapTitle": "Mapa ng mga lugar malapit sa Calgary",
+    "mapSummary": "Mga city park, provincial park at national park na magandang simulan, at kung paano pumunta roon.",
+    "mapIntro": "Ito ang magagandang unang puntahan, mula sa mga city park na mararating mo sakay ng bus hanggang sa Rocky Mountains, mga 1 hanggang 2 oras pakanluran. I-click ang isang lugar para makita kung ano ito at kung anong pass ang kailangan mo. Tantiya lang ang mga punto sa mapa.",
+    "officialMapsTitle": "Gumamit ng opisyal na mapa para sa mga patakaran at hangganan",
+    "officialMapsText": "Para lang sa paghahanap ng lugar ang mapang ito. Hindi nito ipinapakita ang hangganan ng lupa, mga closure, fire ban o hunting zone. Tingnan ang opisyal na mapa at mga alerto bago ka pumunta.",
+    "kind_city": "City park (libre)",
+    "kind_provincial": "Provincial park / Kananaskis",
+    "kind_national": "National park (Parks Canada pass)",
+    "kind_town": "Bayan sa bundok",
+    "kind_water": "Lawa o reservoir",
+    "officialSources": "Opisyal na source",
+    "lastChecked": "Huling sinuri ang impormasyon",
+    "translationTitle": "Tungkol sa salin na ito",
+    "translationNote": "Isinalin ito sa tulong ng makina (machine translation) at maaaring may mali. Kung mahalaga ang patakaran (licence, multa, kaligtasan), tingnan ang naka-link na opisyal na page. Gusto mo bang tumulong mag-ayos? Malugod naming tinatanggap ang mga koreksyon sa page na About & corrections.",
+    "landAck": "Ang Calgary ay nasa tradisyonal na teritoryo ng mga tao ng Treaty 7: ang Blackfoot Confederacy (Siksika, Piikani, Amskaapipiikani at Kainai), ang Tsuut'ina, at ang Îyâxe Nakoda (Chiniki, Bearspaw at Goodstoney). Tahanan din ang Calgary ng Otipemisiwak Métis Government, Districts 5 at 6.",
+    "disclaimer": "Ang Open Trails Canada ay isang independent na gabay ng komunidad, hindi website ng gobyerno. Nagbabago ang mga patakaran, presyo at closure. Laging tingnan ang opisyal na source na naka-link sa bawat page.",
+    "aboutLink": "About & corrections",
+    "aboutTitle": "Tungkol sa gabay na ito"
+  },
+  "topics": [
+    {
+      "id": "start",
+      "icon": "🧭",
+      "title": "Magsimula rito",
+      "summary": "Ano ang libre, ano ang may bayad, at simpleng plano para sa unang trip.",
+      "blocks": [
+        {
+          "h": "Magandang balita: marami ang libre",
+          "list": [
+            "**Libre ang mga city park.** Ang Fish Creek Provincial Park, Nose Hill Park, Edworthy Park at ang mga river pathway ay nasa loob ng Calgary, at marami sa mga ito ang mararating mo sakay ng Calgary Transit.",
+            "**Karamihan ng Alberta ay public land.** Mga 60% ng probinsya ay Crown land, na pag-aari ng gobyerno para sa publiko. Sa karamihan nito, puwede kang maglakad, mag-hike, mag-picnic at mag-camping. May mga aktibidad na nangangailangan ng pass, at may mga lugar na sarado o naka-lease. Tingnan ang gabay sa Public land.",
+            "**Libre ang mga bata sa national park.** Libre ang pagpasok sa mga lugar ng Parks Canada para sa kabataang 17 taong gulang pababa.",
+            "**Puwedeng makakuha ng libreng pagpasok sa national park ang mga bagong dating.** Ang libreng app na Canoo ay nagbibigay ng libreng admission sa Parks Canada sa loob ng isang taon sa mga bagong permanent resident (sa loob ng 5 taon mula nang maging PR) at mga bagong citizen (sa loob ng 1 taon mula sa kanilang seremonya)."
+          ],
+          "links": [
+            "canoo"
+          ]
+        },
+        {
+          "h": "Ang tatlong pass na pinakamadalas itanong",
+          "list": [
+            "**Parks Canada pass**: para sa mga national park tulad ng Banff, Yoho at Jasper. {pc_adult_day} bawat adult bawat araw, o {pc_group_day} bawat araw para sa pamilya o grupo na hanggang 7 tao sa isang sasakyan. Ang taunang Discovery Pass para sa pamilya ay {pc_discovery_family}.",
+            "**Kananaskis Conservation Pass**: para sa pag-park sa Kananaskis Country at sa Bow Valley, mga 1 oras pakanluran ng Calgary. {kpass_day} bawat araw o {kpass_year} bawat taon, naka-link sa licence plate mo.",
+            "**Public Lands Camping Pass**: para sa camping sa public land sa labas ng mga campground sa foothills at bundok. {pclcp_3day} para sa 3 araw o {pclcp_year} para sa isang taon, bawat adult."
+          ],
+          "links": [
+            "pc_fees",
+            "kpass",
+            "pclcp"
+          ]
+        },
+        {
+          "h": "Isang simpleng unang trip",
+          "kind": "tip",
+          "list": [
+            "Magsimula sa isang city park o madaling trail malapit sa Canmore o Bragg Creek bago subukan ang mahahabang hike sa bundok.",
+            "Tingnan ang panahon at kondisyon ng trail isang araw bago pumunta. Mabilis magbago ang panahon sa bundok, kahit summer.",
+            "Magdala ng tubig, pagkain, mainit na damit, rain jacket, fully charged na phone at mapang magagamit offline.",
+            "Sa Kananaskis o Banff, magdala ng bear spray at alamin kung paano ito gamitin.",
+            "Sabihin sa isang tao kung saan ka pupunta at kailan ka babalik."
+          ]
+        },
+        {
+          "h": "Hindi mo kailangan ng mamahaling gamit para magsimula",
+          "p": "Sapat na ang komportableng sapatos, patong-patong na damit at backpack para sa karamihan ng madadaling trail. Puwede kang umupa o humiram ng tent, ski at iba pang gamit. Tingnan ang Matuto, humiram at sumali."
+        }
+      ]
+    },
+    {
+      "id": "passes",
+      "icon": "🎟️",
+      "title": "Mga pass at bayad",
+      "summary": "Anong pass ang kailangan mo sa bawat lugar, magkano ito, at paano ito bilhin.",
+      "blocks": [
+        {
+          "h": "Mga national park (Banff, Yoho, Kootenay, Jasper, Waterton)",
+          "p": [
+            "Kailangan mo ng Parks Canada admission pass para huminto sa isang national park. Puwede mo itong bilhin online, sa mga gate ng park sa highway, o sa mga visitor centre.",
+            "Bawat araw: {pc_adult_day} bawat adult, {pc_senior_day} bawat senior (65+), o {pc_group_day} bawat pamilya o grupo (hanggang 7 tao sa isang sasakyan). Libre ang kabataang 17 taong gulang pababa.",
+            "Ang **Parks Canada Discovery Pass** ay tumatagal ng 12 buwan at sakop ang mahigit 80 lugar ng Parks Canada: {pc_discovery_adult} para sa isang adult, {pc_discovery_senior} para sa isang senior, o {pc_discovery_family} para sa pamilya o grupo. Kung bibisita ka nang mahigit mga 7 araw sa isang taon, makakatipid ka rito."
+          ],
+          "links": [
+            "pc_fees",
+            "pc_discovery"
+          ]
+        },
+        {
+          "h": "Libreng pagpasok para sa mga bagong citizen: Canoo",
+          "kind": "tip",
+          "p": "Ang Canoo ay libreng app mula sa Institute for Canadian Citizenship. Kung naging permanent resident ka sa nakaraang 5 taon, o citizen sa nakaraang taon, puwede ka nitong bigyan ng libreng admission sa Parks Canada sa loob ng isang taon, kasama ang hanggang 4 sa mga anak mong wala pang 18. Hindi nito sakop ang camping, hot springs, permit o tour. Kailangan ng asawa mo ng sarili niyang account. Tingnan ang app para sa kasalukuyang patakaran.",
+          "links": [
+            "canoo"
+          ]
+        },
+        {
+          "h": "Kananaskis Conservation Pass",
+          "p": [
+            "Ang Kananaskis Country ay malaking lugar sa bundok pakanluran ng Calgary na may maraming trail, lawa at campground. Kung magpa-park ka ng sasakyan doon, o sa mga park sa Bow Valley malapit sa Canmore, kailangan mo ang pass na ito. Hindi mo ito kailangan kung dadaan ka lang, o darating nang naglalakad o naka-bisikleta.",
+            "Bayad: {kpass_day} bawat araw bawat sasakyan, o {kpass_year} bawat taon para sa hanggang 3 sasakyan. Naka-link ito sa licence plate mo. Bilhin ito online bago ka pumunta, dahil madalas walang signal ng cellphone doon. Puwede itong makuha nang libre ng mga Status First Nations at ng ilang Albertan na mababa ang kita."
+          ],
+          "links": [
+            "kpass",
+            "kpass_buy"
+          ]
+        },
+        {
+          "h": "Public Lands Camping Pass",
+          "p": [
+            "Kailangan mo ang pass na ito kung ikaw ay 18 taong gulang pataas at magka-camping ka sa public land sa Eastern Slopes ng Rockies (mula Grande Prairie hanggang Waterton), sa labas ng campground.",
+            "Bayad: {pclcp_3day} para sa 3 araw o {pclcp_year} para sa isang taon, bawat tao, dagdag ang maliit na processing fee. Kailangan mo rin ng WIN number ({win_fee}, isang beses lang). Bilhin ito sa AlbertaRELM. Hindi mo ito kailangan para sa day trip o sa mga campground na may bayad."
+          ],
+          "links": [
+            "pclcp",
+            "relm"
+          ]
+        },
+        {
+          "h": "Mga provincial park ng Alberta",
+          "p": "Karamihan ng provincial park ay walang entry fee para sa day visit. Nagbabayad ka para sa campsite, at kailangan mo ang Kananaskis pass sa Kananaskis at sa Bow Valley. Mag-book ng campsite sa Alberta Parks reservations.",
+          "links": [
+            "ab_parks",
+            "ab_reserve"
+          ]
+        },
+        {
+          "h": "Mga licence para sa fishing at hunting",
+          "p": "May sariling licence ang fishing at hunting. Tingnan ang mga gabay sa Fishing at Hunting."
+        }
+      ]
+    },
+    {
+      "id": "hiking",
+      "icon": "🥾",
+      "title": "Hiking at paglalakad",
+      "summary": "Madadaling lugar para magsimula, paano pumunta nang walang kotse, at tamang asal sa trail.",
+      "blocks": [
+        {
+          "h": "Sa loob ng Calgary (libre, marami ang mararating sakay ng bus o tren)",
+          "list": [
+            "**Fish Creek Provincial Park**: isa sa pinakamalalaking city park sa Canada, sa south Calgary, na may mahigit 100 km na trail. Pang-araw lang (day use only).",
+            "**Nose Hill Park**: bukas na prairie sa north Calgary na may malawak na tanawin ng bundok kapag maaliwalas ang langit.",
+            "**Edworthy Park at ang Douglas Fir Trail**: trail sa gubat na may hagdan sa itaas ng Bow River.",
+            "**Glenbow Ranch Provincial Park**: sa kanluran lang ng lungsod, may tanawin ng river valley at malalapad na daang graba. Kailangan mo ng kotse para makarating doon."
+          ],
+          "links": [
+            "calgary_parks",
+            "transit"
+          ]
+        },
+        {
+          "h": "Day trip sa bundok",
+          "p": [
+            "Ang Canmore at Banff ay mga 1 hanggang 1.5 oras pakanluran sa Highway 1. Ang Bragg Creek at Kananaskis ay 45 hanggang 90 minuto ang layo. Magsimula sa maiikli at sikat na trail na maraming ibang hiker.",
+            "Walang kotse? May mga pribadong bus company na bumibiyahe sa pagitan ng Calgary, Canmore at Banff. Ang On-It Regional Transit ay nagpatakbo ng bus mula Calgary papuntang Banff at Kananaskis tuwing summer (tingnan ang kasalukuyang schedule). Sa Banff at Canmore, ang mga bus ng Roam Transit ay pumupunta sa mga trailhead at lawa."
+          ],
+          "links": [
+            "onit",
+            "roam",
+            "ab_parks_trails"
+          ]
+        },
+        {
+          "h": "Tamang asal sa trail sa Canada",
+          "list": [
+            "Manatili sa trail. Ang paglakad paikot sa maputik na bahagi ay sumisira sa halaman at nagpapalapad ng trail.",
+            "Iuwi ang lahat ng dinala mo, kasama ang tirang pagkain at toilet paper.",
+            "Dapat naka-leash ang aso sa mga national park at sa karamihan ng provincial park.",
+            "Huwag pumitas ng bulaklak, kumuha ng bato o sungay ng hayop (antler), o magpakain ng hayop. Sa mga park, puwede kang mamultahan dito.",
+            "May karapatang mauna ang mga hiker na paakyat. Tumabi para sa bisikleta at kabayo kapag ligtas.",
+            "Itinuturing na bastos ang pagpapatugtog ng musika sa speaker sa karamihan ng trail."
+          ],
+          "links": [
+            "lnt"
+          ]
+        },
+        {
+          "h": "Ano ang dadalhin (ang \"10 essentials\")",
+          "kind": "tip",
+          "list": [
+            "Tubig at sobrang pagkain",
+            "Mainit na damit at rain jacket, kahit summer",
+            "Mapa o offline map app, at charged na phone o power bank",
+            "Headlamp o flashlight",
+            "First-aid kit",
+            "Bear spray sa Kananaskis at sa mga park sa bundok",
+            "Proteksyon sa araw: sombrero, sunglasses, sunscreen",
+            "Pito (whistle)",
+            "Pocket knife",
+            "Emergency blanket"
+          ],
+          "links": [
+            "adventuresmart"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "camping",
+      "icon": "⛺",
+      "title": "Camping",
+      "summary": "Mga campground, petsa ng booking, at libreng camping sa public land.",
+      "blocks": [
+        {
+          "h": "Mga campground: ang pinakamadaling paraan para magsimula",
+          "p": [
+            "Ang mga campground ay may numeradong site, toilet, at madalas may tubig at staff. Nagbo-book ka ng site online. Mabilis maubos ang mga sikat na site tuwing weekend ng summer pagbukas ng booking, madalas ilang buwan bago pa. Mas madali kapag weekday at sa September.",
+            "Mag-book ng campsite sa mga provincial park ng Alberta (kasama ang Kananaskis) sa Alberta Parks. Mag-book ng campsite sa mga national park (Banff, Jasper at iba pa) sa Parks Canada."
+          ],
+          "links": [
+            "ab_reserve",
+            "pc_reserve"
+          ]
+        },
+        {
+          "h": "Hindi ka pa nakapag-camping? Subukan ang programa para sa baguhan",
+          "kind": "tip",
+          "p": "Nagpapatakbo ang Parks Canada ng mga Learn-to-Camp event sa ilang lugar, at may mga grupong nagpapahiram ng gamit o nag-oorganisa ng trip para sa mga bagong dating. Tingnan ang Matuto, humiram at sumali.",
+          "links": [
+            "pc_learn_camp"
+          ]
+        },
+        {
+          "h": "Camping sa public land (random camping)",
+          "p": [
+            "Puwede ka ring mag-camping sa labas ng campground sa karamihan ng public land. Tinatawag itong random camping o dispersed camping. Walang toilet, walang tubig at walang staff, kaya dapat kaya mo ang sarili mo.",
+            "Sa Eastern Slopes ng Rockies, kailangan ng mga adult ang Public Lands Camping Pass ({pclcp_3day} para sa 3 araw o {pclcp_year} para sa isang taon)."
+          ],
+          "list": [
+            "Manatili nang hanggang {random_max_days} araw sa isang lugar. Pagkatapos, lumipat nang hindi bababa sa 1 km ang layo sa loob ng 72 oras.",
+            "Mag-camp nang hindi bababa sa 30 m mula sa lawa at sapa, at hindi bababa sa 100 m mula sa mga oil at gas site.",
+            "Huwag mag-camp sa loob ng 1 km mula sa provincial park, recreation area o campground. Sa mga zone ng Kananaskis, McLean Creek, Sibbald at Cataract Creek, huwag mag-camp sa loob ng 1 km mula sa kalsada.",
+            "Tingnan kung may fire ban bago magsindi ng anumang apoy.",
+            "Iuwi ang lahat ng basura. Ibaon ang dumi ng tao nang hindi bababa sa 15 cm ang lalim at hindi bababa sa 70 m mula sa tubig. Iuwi ang toilet paper."
+          ],
+          "links": [
+            "pclcp",
+            "random_camping",
+            "firebans"
+          ]
+        },
+        {
+          "h": "Pagkain at mga oso (bear)",
+          "kind": "warn",
+          "p": "Huwag kailanman maglagay ng pagkain, basura, toothpaste o gamit sa pagluluto sa loob ng tent mo. Itago ito sa naka-lock na sasakyang matigas ang katawan (hard-sided) o sa bear locker. Sa mga campground, puwede kang mamultahan kapag iniwan mong nakalabas ang pagkain, dahil ang mga oso na nakakakuha ng pagkain ng tao ay madalas kailangang patayin."
+        }
+      ]
+    },
+    {
+      "id": "public-land",
+      "icon": "🌲",
+      "title": "Public (Crown) land",
+      "summary": "Ano ang ibig sabihin ng \"Crown land\", saan ka puwedeng pumunta, at paano malalaman kung public o private ang lupa.",
+      "blocks": [
+        {
+          "h": "Ano ang Crown land?",
+          "p": [
+            "Ang \"Crown land\" ay lupang pag-aari ng gobyerno para sa publiko. Mga 60% ng Alberta ay Crown land. Kasama rito ang mga park, at pati ang napakalaking lugar ng **public land** sa mga gubat at foothills pakanluran ng Calgary at sa norte.",
+            "Hindi ito alam ng maraming bagong dating: sa karamihan ng public land, kahit sino ay puwedeng maglakad, mag-hike, magbisikleta, mag-picnic, manood ng ibon at mag-camping, nang hindi humihingi ng pahintulot."
+          ],
+          "links": [
+            "public_land",
+            "crown_vision"
+          ]
+        },
+        {
+          "h": "Green Area at White Area",
+          "list": [
+            "**Green Area**: karamihan ay gubat sa norte at sa bundok at foothills. Karamihan ng lupang ito ay public at bukas para sa recreation.",
+            "**White Area**: ang lupang sakahan na tinitirhan ng tao sa central, southern at eastern Alberta, kasama ang Calgary. Karamihan ng lupa rito ay private. May kaunting public land, pero marami rito ay naka-lease sa mga rancher."
+          ]
+        },
+        {
+          "h": "Private land: laging magpaalam muna",
+          "kind": "warn",
+          "p": [
+            "Sa Alberta, kailangan mo ng pahintulot mula sa may-ari o nakatira (occupant) para pumasok sa private land, kasama ang para sa hunting. Ang pagpasok nang walang pahintulot ay trespassing at puwede kang mamultahan.",
+            "May public land na naka-lease sa mga rancher para sa pagpapastol ng hayop. Kadalasan puwede mo itong gamitin para sa recreation, pero dapat kontakin mo muna ang leaseholder. Dapat payagan ng leaseholder ang makatwirang access maliban kung malalagay sa panganib ang lupa, pananim o hayop. Ipinapakita ng opisyal na web map kung sino ang kokontakin. Magtanong ilang araw bago ka pumunta."
+          ],
+          "links": [
+            "trespass",
+            "grazing_access"
+          ]
+        },
+        {
+          "h": "Public Land Use Zones (PLUZ)",
+          "p": "May public land malapit sa Calgary na nasa Public Land Use Zone (PLUZ), halimbawa ang Kananaskis, McLean Creek at Sibbald. May dagdag na patakaran ang mga zone na ito. Ang mga off-highway vehicle (OHV) ay puwede lang sa mga markadong trail, at may mga lugar na nagsasara sa ilang season. Sa public land, dapat naka-helmet ang mga sakay ng OHV at dapat rehistrado at may insurance ang sasakyan.",
+          "links": [
+            "pluz",
+            "ohv"
+          ]
+        },
+        {
+          "h": "Paano malalaman kung anong lupa ang kinaroroonan mo",
+          "kind": "tip",
+          "list": [
+            "Gamitin ang opisyal na Alberta public land recreation maps. Ipinapakita nito ang mga trail, zone at closure.",
+            "Mag-download ng offline map bago mawala ang signal ng cellphone.",
+            "Ang mga karatulang \"No trespassing\", \"Private property\" o may nakasulat na lease number ay nangangahulugang hindi ka dapat pumasok nang walang pahintulot.",
+            "Kung hindi ka sigurado, huwag pumasok. Magtanong sa county o sa land office."
+          ],
+          "links": [
+            "trail_maps"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fishing",
+      "icon": "🎣",
+      "title": "Fishing (pangingisda)",
+      "summary": "Sino ang kailangan ng licence, paano kumuha nito, at ang mga patakarang ikinagugulat ng mga bagong dating.",
+      "blocks": [
+        {
+          "h": "Kailangan ko ba ng licence?",
+          "p": [
+            "Oo, kung ikaw ay 16 taong gulang pataas. Ang mga residente ng Alberta na wala pang 16 o 65 pataas ay puwedeng mangisda nang walang licence, pero dapat pa rin nilang sundin ang lahat ng patakaran.",
+            "Residente ka ng Alberta para sa fishing kung ikaw ay Canadian citizen o permanent resident at nasa Alberta ang pangunahing tirahan mo. Una, kumuha ka ng **WIN** (Wildlife Identification Number, {win_fee}, isang beses lang). Pagkatapos, bumili ka ng sportfishing licence: {fish_resident} bawat taon para sa mga residente. Puwede mong bilhin ang dalawa online sa AlbertaRELM o sa maraming sports at hardware store."
+          ],
+          "links": [
+            "fish_licence",
+            "relm"
+          ]
+        },
+        {
+          "h": "Mga libreng fishing weekend",
+          "kind": "tip",
+          "p": "Karaniwang may dalawang Family Fishing Weekend ang Alberta bawat taon, sa February at July, kung kailan kahit sino ay puwedeng mangisda sa Alberta nang walang licence. Sinusunod pa rin ang lahat ng ibang patakaran, at hindi kasama ang mga national park. Tingnan ang opisyal na page para sa mga petsa sa susunod na taon.",
+          "links": [
+            "fish_free"
+          ]
+        },
+        {
+          "h": "Mga patakarang ikinagugulat ng mga tao",
+          "list": [
+            "May sariling patakaran ang bawat lawa at ilog: open season, size limit, ilang isda ang puwede mong iuwi, at patakaran sa pain (bait). Maraming tubig malapit sa Calgary ang catch-and-release para sa ilang uri ng isda.",
+            "Bago ka pumunta, tingnan ang patakaran para sa mismong tubig na pangingisdaan mo. Gamitin ang opisyal na regulations guide o ang opisyal na fishing regulations map.",
+            "Protektado ang bull trout, ang provincial fish ng Alberta. Kung makahuli ka nito, dapat mo itong pakawalan.",
+            "Sa mga national park tulad ng Banff, kailangan mo ng **Parks Canada fishing permit** ({pc_fish_day} bawat araw o {pc_fish_year} bawat taon), dagdag ang park admission. Hindi gumagana roon ang Alberta licence.",
+            "Tine-check ng mga Fish and Wildlife officer ang mga licence. Dalhin ang licence mo (papel o nasa phone mo)."
+          ],
+          "links": [
+            "fish_regs",
+            "fish_map",
+            "pc_fishing"
+          ]
+        },
+        {
+          "h": "Saan magsisimula malapit sa Calgary",
+          "p": "Sikat ang Bow River na dumadaan sa Calgary para sa trout fishing. Ang mga pond at lawa na nilalagyan ng isda (stocked) ay madalas mas madali para sa baguhan. Inilalathala ng Alberta kung aling tubig ang stocked.",
+          "links": [
+            "fish_stocking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hunting",
+      "icon": "🦌",
+      "title": "Hunting (pangangaso)",
+      "summary": "Ang mga kurso, licence at pahintulot na kailangan mo bago ang unang hunting mo.",
+      "blocks": [
+        {
+          "h": "May mga patakaran ang hunting, pero puwede mo itong matutunan",
+          "p": "Maraming Albertan ang nangangaso para sa pagkain. Kung gusto mong matuto, magplano nang maaga: kailangan mo ng kurso, mga licence at, kung baril ang gagamitin mo, isang federal firearms licence. Karamihan ng hunting ay kailangan din ng pahintulot para pumasok sa private land."
+        },
+        {
+          "h": "Hakbang 1: Hunter education",
+          "p": "Ang mga first-time hunter sa Alberta ay dapat pumasa sa kursong **Alberta Conservation and Hunter Education** bago bumili ng hunting licence. Dapat ikaw ay hindi bababa sa 12 taong gulang (10 para sa game birds). Kailangan mo rin ng WIN number, ang parehong ginagamit sa fishing.",
+          "links": [
+            "hunter_ed",
+            "relm"
+          ]
+        },
+        {
+          "h": "Hakbang 2: Firearms licence (PAL)",
+          "p": "Para magmay-ari o bumili ng baril o bala sa Canada, kailangan mo ng **Possession and Acquisition Licence (PAL)** mula sa RCMP. Una, pumasa ka sa Canadian Firearms Safety Course (CFSC). Ang pagkuha ng PAL ay puwedeng tumagal nang ilang linggo o buwan, kaya magsimula nang maaga. May hiwalay na patakaran para sa pana (bow) sa hunting regulations.",
+          "links": [
+            "pal"
+          ]
+        },
+        {
+          "h": "Hakbang 3: Mga licence at residency",
+          "p": [
+            "Para sa hunting, residente ka ng Alberta kung nasa Alberta ang pangunahing tirahan mo **at** ikaw ay Canadian citizen o permanent resident, o nakatira ka na sa Canada sa nakaraang 12 buwan. Kaya puwedeng bumili ng resident licence ang mga permanent resident.",
+            "Karamihan ng hunting ay kailangan ng wildlife certificate dagdag ang licence o tag para sa bawat uri ng hayop. May mga licence na ibinibigay sa pamamagitan ng draw (lottery) na ina-applyan ilang buwan bago pa."
+          ],
+          "links": [
+            "hunt_regs"
+          ]
+        },
+        {
+          "h": "Mahahalagang patakaran",
+          "kind": "warn",
+          "list": [
+            "Kailangan mo ng pahintulot mula sa may-ari o nakatira (occupant) para mangaso sa private land.",
+            "Bawal ang hunting sa mga national park, at limitado ito sa maraming provincial park.",
+            "May season at zone (Wildlife Management Units) ang bawat uri ng hayop. Tingnan ang regulations bawat taon, dahil nagbabago ang mga ito.",
+            "Magsuot ng blaze orange kung saan kinakailangan, at huwag kailanman bumaril maliban kung sigurado ka sa target mo at kung ano ang nasa likod nito."
+          ],
+          "links": [
+            "hunt_regs",
+            "trespass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "water",
+      "icon": "🛶",
+      "title": "Ilog, lawa at paddling",
+      "summary": "Life jacket, malamig na tubig, ang Bow River, at mga patakaran sa bangka.",
+      "blocks": [
+        {
+          "h": "Malamig at mabilis na tubig",
+          "kind": "warn",
+          "p": [
+            "Napakalamig ng mga lawa at ilog sa bundok ng Alberta, kahit July, dahil galing ito sa niyebe at glacier. Ang malamig na tubig ay puwedeng umubos ng lakas mo sa loob ng ilang minuto.",
+            "Malamig at mabilis ang Bow at Elbow river sa Calgary, lalo na sa June. May nalulunod dito bawat taon. Tingnan ang kondisyon ng ilog at mga advisory bago ka pumunta."
+          ],
+          "links": [
+            "calgary_river",
+            "cold_water"
+          ]
+        },
+        {
+          "h": "Life jacket",
+          "p": "Ayon sa batas, bawat bangka, canoe, kayak at paddleboard ay dapat may dalang Canadian-approved na life jacket na kasya sa bawat taong sakay. **Sa Calgary, sinasabi ng isang bylaw na dapat mo itong isuot** sa lahat ng ilog at daluyan ng tubig, na may multang hanggang {calgary_lifejacket_fine}. Bawal din ang alak at droga sa tubig.",
+          "links": [
+            "tc_boating",
+            "calgary_river",
+            "calgary_river_access"
+          ]
+        },
+        {
+          "h": "Bangkang de-motor",
+          "p": "Para magmaneho ng anumang bangkang may motor sa Canada, kasama ang maliit na electric motor, kailangan mo ng patunay ng kakayahan (proof of competency), karaniwan ang **Pleasure Craft Operator Card**. Makukuha mo ito habambuhay kapag pumasa ka sa test sa isang provider na accredited ng Transport Canada. Bawal ang bangkang de-motor sa mga ilog sa loob ng Calgary, at may mga lawang hindi pumapayag ng motor.",
+          "links": [
+            "pcoc"
+          ]
+        },
+        {
+          "h": "Glenmore Reservoir",
+          "p": "Bukas ang Glenmore Reservoir sa south Calgary para sa canoe, kayak at sailboat mula May 1 hanggang October 31. Pinagkukunan ito ng inuming tubig, kaya bawal ang paglangoy, paddleboard, inflatable, motor at alagang hayop, at dapat nakasuot ng life jacket.",
+          "links": [
+            "glenmore"
+          ]
+        },
+        {
+          "h": "Pigilan ang invasive mussels",
+          "p": "Kung magdadala ka ng bangka, canoe o paddleboard mula sa ibang lugar, linisin, patuyuin at alisan ito ng tubig (clean, drain, dry) para pigilan ang invasive mussels. Kung madaanan mo ang bukas na watercraft inspection station habang may dalang anumang bangka, dapat kang huminto.",
+          "links": [
+            "mussels"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "winter",
+      "icon": "❄️",
+      "title": "Outdoors tuwing winter",
+      "summary": "Paano manatiling mainit, skating at skiing, at kaligtasan sa avalanche.",
+      "blocks": [
+        {
+          "h": "Magandang season dito ang winter",
+          "p": "May mga libreng outdoor skating rink ang Calgary, mga cross-country ski trail sa city park at sa Kananaskis, at mga downhill ski hill na 1 hanggang 2 oras ang layo. Madaling matutunan at mura ang snowshoeing: puwede kang umupa ng snowshoes para sa isang araw.",
+          "links": [
+            "calgary_skating"
+          ]
+        },
+        {
+          "h": "Magsuot ng patong-patong na damit",
+          "kind": "tip",
+          "list": [
+            "Base layer na naglalayo ng pawis (wool o synthetic, hindi cotton)",
+            "Mainit na middle layer (fleece o wool)",
+            "Jacket at pantalon na hindi pinapasok ng hangin (windproof)",
+            "Sombrero, mainit na gloves o mittens, mainit na medyas at winter boots",
+            "Kapag mahangin, puwedeng magka-frostbite sa loob ng ilang minuto. Tingnan ang panahon at wind chill bago lumabas."
+          ]
+        },
+        {
+          "h": "Avalanche",
+          "kind": "warn",
+          "p": [
+            "Sa bundok, puwedeng dumausdos ang niyebe sa matatarik na dalisdis. Ang avalanche ay pumapatay ng tao sa Alberta at B.C. bawat winter. Maraming sikat na hiking trail tuwing summer ang dumadaan sa avalanche terrain tuwing winter.",
+            "Kung pupunta ka sa bundok tuwing winter, tingnan ang araw-araw na forecast ng Avalanche Canada at pumili ng trail na ligtas tuwing winter. Bago pumasok sa avalanche terrain, kumuha ng kursong Avalanche Skills Training 1 (AST 1). Tumatagal ito ng mga 2 araw at hindi kailangan ng karanasan."
+          ],
+          "links": [
+            "avalanche",
+            "ast"
+          ]
+        },
+        {
+          "h": "Pagmamaneho tuwing winter",
+          "p": "Ang mga highway sa bundok ay puwedeng madulas sa yelo o sarado. Gumamit ng winter tires at tingnan ang kondisyon ng kalsada sa 511 Alberta bago ka umalis. Magdala ng mainit na damit, tubig, pala (shovel) at charged na phone.",
+          "links": [
+            "ab511"
+          ]
+        },
+        {
+          "h": "Kaligtasan sa yelo",
+          "p": "Huwag kailanman maglakad sa yelo ng ilog o sa mga storm pond sa neighbourhood mo: hindi matibay ang yelo. Mag-skate sa mga rink ng City, na tine-check araw-araw.",
+          "links": [
+            "calgary_ice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "safety",
+      "icon": "⚠️",
+      "title": "Kaligtasan: hayop, apoy, panahon",
+      "summary": "Mga oso at ibang wildlife, fire ban, trip plan, at ano ang gagawin kapag may problema.",
+      "blocks": [
+        {
+          "h": "Mga emergency",
+          "kind": "warn",
+          "list": [
+            "Tumawag sa **911** para sa pulis, bumbero, ambulansya o search and rescue. Libre ito at puwede kang humingi ng interpreter. Sa Kananaskis, sabihin ang \"Kananaskis Country\" para maikonekta ka sa K-Country Emergency Services.",
+            "Maraming lambak sa bundok ang walang signal ng cellphone. Magandang investment ang satellite messenger kung madalas kang mag-hike.",
+            "Bago ka umalis, gumawa ng trip plan (saan, sino ang kasama, kailan ka babalik) at ibigay ito sa taong pinagkakatiwalaan mo. Makakatulong ang libreng app na AdventureSmart."
+          ],
+          "links": [
+            "adventuresmart",
+            "k_safety"
+          ]
+        },
+        {
+          "h": "Mga oso (bear)",
+          "list": [
+            "Nakatira ang mga black bear at grizzly bear sa bundok at foothills, at minsan lumalapit sa Calgary.",
+            "Magdala ng **bear spray** sa lugar na madaling abutin (hindi sa loob ng backpack mo), at alamin kung paano ito gamitin. Nabibili ito sa mga outdoor at hardware store.",
+            "Mag-ingay, manatili nang grupo-grupo at panatilihing malapit ang mga bata.",
+            "Kung may makita kang oso, manatiling kalmado, huwag tumakbo, at dahan-dahang umatras. Huwag kailanman lumapit sa oso para kumuha ng litrato."
+          ],
+          "links": [
+            "bearsmart",
+            "k_bears",
+            "pc_bears"
+          ]
+        },
+        {
+          "h": "Ibang wildlife",
+          "list": [
+            "Puwedeng mapanganib ang elk, moose at deer, lalo na sa spring kapag may mga anak sila at sa fall tuwing mating season.",
+            "Sa mga national park, lumayo nang hindi bababa sa 30 m (haba ng 3 bus) sa elk, deer, sheep at moose, at hindi bababa sa 100 m (haba ng 10 bus) sa oso, lobo (wolf), cougar at coyote.",
+            "Bawal ang pagpapakain ng mga hayop sa wild, kasama ang ibon at squirrel, sa mga national park. Ang multa ay puwedeng umabot sa {pc_wildlife_fine}.",
+            "Kung may makita kang hayop mula sa kotse mo, huwag huminto sa highway. Manatili sa loob ng sasakyan mo."
+          ],
+          "links": [
+            "pc_wildlife"
+          ]
+        },
+        {
+          "h": "Apoy",
+          "p": [
+            "Seryosong panganib ang wildfire sa Alberta, lalo na tuwing summer. Madalas may fire ban at fire restriction, at puwede itong magbago araw-araw.",
+            "Tingnan ang Alberta Fire Bans (website o app) bago gumawa ng anumang campfire. Gamitin ang fire pit kung mayroon, panatilihing maliit ang apoy, at buhusan ng tubig ang apoy hanggang malamig na ito kapag hinawakan. Mula March 1 hanggang October 31, ang ibang pagsusunog sa forest area ay kailangan ng libreng fire permit."
+          ],
+          "links": [
+            "firebans",
+            "fire_permit"
+          ]
+        },
+        {
+          "h": "Panahon at altitude",
+          "list": [
+            "Karaniwan ang kulog at kidlat (thunderstorm) tuwing hapon sa summer. Magsimula nang maaga at bumaba kapag dumilim ang langit.",
+            "Puwedeng umulan ng niyebe sa bundok sa kahit anong buwan.",
+            "Mas malakas ang araw sa mataas na lugar. Gumamit ng sunscreen at uminom ng maraming tubig."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "programs",
+      "icon": "🤝",
+      "title": "Matuto, humiram at sumali",
+      "summary": "Mga programa para sa baguhan, mga lugar na umuupa ng gamit, at mga grupong tumatanggap ng bagong dating.",
+      "blocks": [
+        {
+          "h": "Matuto",
+          "list": [
+            "**Parks Canada Learn-to-Camp**: mga programa para sa baguhan na nagtuturo kung paano magtayo ng tent, magluto sa labas at manatiling ligtas. Nagbabago ang petsa at lugar bawat taon.",
+            "**Outdoor Council of Canada Field Leader (Hiking)**: 2-araw na kurso sa University of Calgary na nagtuturo kung paano mamuno ng ligtas na group hike.",
+            "**City of Calgary Fee Assistance**: kung hadlang ang gastos, puwede kang makakuha ng hanggang 90% diskwento sa mga recreation program at pass ng City."
+          ],
+          "links": [
+            "pc_learn_camp",
+            "field_leader",
+            "calgary_fee_assist"
+          ]
+        },
+        {
+          "h": "Umupa o humiram ng gamit",
+          "list": [
+            "**University of Calgary Outdoor Centre**: umuupa ng libu-libong gamit, tulad ng tent, sleeping bag, canoe, ski at snowshoes. Tumawag para magtanong tungkol sa presyo at kung sino ang puwedeng umupa.",
+            "Umuupa ng gamit tulad ng ski, bisikleta at paddleboard ang mga outdoor store sa Calgary at Canmore.",
+            "Magandang lugar ang mga buy-and-sell site at community group para makahanap ng murang secondhand na gamit."
+          ],
+          "links": [
+            "ucalgary_outdoor"
+          ]
+        },
+        {
+          "h": "Sumali sa isang grupo",
+          "p": "Ang mga hiking club, cultural association at newcomer agency sa Calgary ay minsan nag-oorganisa ng group trip. Ligtas at masayang paraan para magsimula ang sumama sa grupo. Tanungin ang settlement agency mo kung ano ang available."
+        },
+        {
+          "h": "May alam kang magandang programa?",
+          "kind": "tip",
+          "p": "Sinadyang maikli ang listahang ito. Kung nagpapatakbo ka o may alam kang programa para sa mga bagong dating, paki-suggest ito sa About page."
+        }
+      ]
+    },
+    {
+      "id": "words",
+      "icon": "📖",
+      "title": "Mga salitang makikita mo",
+      "summary": "Maiikling paliwanag ng mga salita at karatula sa outdoors na ginagamit sa Alberta.",
+      "blocks": [
+        {
+          "terms": [
+            {
+              "t": "Crown land / public land — lupang pag-aari ng gobyerno / lupang pampubliko",
+              "d": "Lupang pag-aari ng gobyerno para sa publiko. Mga 60% ng Alberta. Ang mga bahagi nito na hindi park ay karaniwang tinatawag na public land."
+            },
+            {
+              "t": "Green Area / White Area — berdeng lugar / puting lugar",
+              "d": "Ang Green Area ay ang bahagi ng Alberta na karamihan ay gubat at karamihan ay public. Ang White Area ay ang lupang sakahan na tinitirhan ng tao, na karamihan ay private."
+            },
+            {
+              "t": "Random camping — camping sa labas ng campground",
+              "d": "Camping sa labas ng campground, karaniwan sa public land. Tinatawag din itong dispersed camping."
+            },
+            {
+              "t": "Trailhead — simula ng trail",
+              "d": "Ang lugar kung saan nagsisimula ang trail, karaniwang may parking at karatula."
+            },
+            {
+              "t": "Backcountry — liblib na lugar",
+              "d": "Mga lugar na malayo sa kalsada at serbisyo. Karaniwang kailangan mo ng permit para mag-camp nang magdamag sa backcountry ng isang park."
+            },
+            {
+              "t": "Frontcountry — lugar na malapit sa kalsada",
+              "d": "Mga lugar na malapit sa kalsada: campground, picnic area at maiikling trail."
+            },
+            {
+              "t": "WIN — Wildlife Identification Number",
+              "d": "Wildlife Identification Number. Isang numerong isang beses lang kukunin ({win_fee}) na kailangan mo bago bumili ng fishing o hunting licence o ng Public Lands Camping Pass sa Alberta."
+            },
+            {
+              "t": "AlbertaRELM — opisyal na website ng licence",
+              "d": "Ang opisyal na website ng Alberta para sa pagbili ng fishing at hunting licence at ng Public Lands Camping Pass."
+            },
+            {
+              "t": "PAL — licence sa baril",
+              "d": "Possession and Acquisition Licence. Ang federal licence na kailangan mo para magmay-ari o bumili ng baril."
+            },
+            {
+              "t": "PLUZ — zone ng public land na may dagdag na patakaran",
+              "d": "Public Land Use Zone. Public land na may dagdag na patakaran, lalo na para sa mga off-highway vehicle."
+            },
+            {
+              "t": "OHV — sasakyang pang-off-road",
+              "d": "Off-highway vehicle, tulad ng quad (ATV), dirt bike o side-by-side."
+            },
+            {
+              "t": "Catch and release — hulihin at pakawalan",
+              "d": "Dapat mong ibalik nang buhay ang isda sa tubig."
+            },
+            {
+              "t": "Fire ban / fire restriction — pagbabawal / paglilimita sa apoy",
+              "d": "Isang utos na nagbabawal o naglilimita sa apoy. Puwedeng magbago araw-araw tuwing summer."
+            },
+            {
+              "t": "Bear spray — spray laban sa oso",
+              "d": "Isang malakas na pepper spray na ginagamit para pigilan ang osong masyadong lumalapit. Iba ito sa personal na pepper spray."
+            },
+            {
+              "t": "Wind chill — lamig dahil sa hangin",
+              "d": "Kung gaano kalamig ang pakiramdam ng hangin sa balat kapag mahangin. Ginagamit sa weather forecast tuwing winter."
+            },
+            {
+              "t": "Treaty 7 — Kasunduan 7",
+              "d": "Ang kasunduan (treaty) noong 1877 sa pagitan ng Crown at ng mga First Nations ng southern Alberta. Ang Calgary ay nasa teritoryo ng Treaty 7."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "places": {
+    "fish_creek": {
+      "desc": "Malaking libreng park sa south Calgary na may mahigit 100 km na trail. Pang-araw lang (day use only). Mararating sakay ng CTrain at bus."
+    },
+    "nose_hill": {
+      "desc": "Libreng prairie park sa north Calgary na may tanawin ng bundok. Mararating sakay ng bus."
+    },
+    "edworthy": {
+      "desc": "Libreng city park na may Douglas Fir Trail, isang trail sa gubat sa itaas ng Bow River."
+    },
+    "glenmore": {
+      "desc": "Reservoir sa south Calgary para sa canoe, kayak at sailing. Bawal lumangoy."
+    },
+    "glenbow": {
+      "desc": "Provincial park pakanluran ng Calgary na may tanawin ng river valley. Libre. Kailangan mo ng kotse."
+    },
+    "bragg": {
+      "desc": "May mga trail sa West Bragg Creek para sa hiking, biking at cross-country skiing. Kailangan ng Kananaskis Conservation Pass para sa parking."
+    },
+    "bow_valley": {
+      "desc": "Provincial park sa simula ng kabundukan, na may madadaling trail at campground. Kailangan ng Kananaskis Conservation Pass."
+    },
+    "canmore": {
+      "desc": "Bayan sa bundok mga 1 oras pakanluran ng Calgary. Maraming trail at serbisyo. May bus mula Calgary."
+    },
+    "kananaskis": {
+      "desc": "Peter Lougheed Provincial Park at Kananaskis Village: mga lawa, hike sa bundok at campground. Kailangan ng Kananaskis Conservation Pass."
+    },
+    "banff": {
+      "desc": "Banff National Park, ang unang national park ng Canada. Kailangan ng Parks Canada pass. May bus mula Calgary at Roam Transit sa loob ng park."
+    }
+  },
+  "about": [
+    {
+      "h": "Bakit ito ginawa",
+      "p": "Maraming taong lumipat sa Canada ang hindi nalalaman na bukas para sa kanila ang napakalaking lugar ng lupa, na libre ang maraming park, o kung anong pass at licence ang kailangan nila. Ipinapaliwanag ng gabay na ito ang mga basic na iyon sa wika mo at may link sa opisyal na patakaran."
+    },
+    {
+      "h": "Katumpakan",
+      "p": "Bawat patakaran sa gabay na ito ay galing sa opisyal na source ng gobyerno o ng park, na naka-link sa page. Nagbabago ang mga patakaran at presyo, kaya ang opisyal na page ang laging masusunod. Ipinapakita sa ibaba ang petsa kung kailan huling sinuri ang bawat page."
+    },
+    {
+      "h": "Tumulong mag-ayos",
+      "p": "May nakitang mali, mas magandang salin, o lumang presyo? Magbukas ng issue o pull request sa GitHub. Lalo naming tinatanggap ang mga salin mula sa mga native speaker. Hindi mo kailangang marunong mag-code: puwede mong ilarawan ang ayos sa isang issue."
+    },
+    {
+      "h": "Ano ang susunod",
+      "p": "Sakop ng Version 1 ang Calgary at southern Alberta. Ang plano ay magdagdag ng ibang probinsya at lungsod sa paglipas ng panahon."
+    }
+  ]
+}

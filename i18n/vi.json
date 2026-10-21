@@ -1,0 +1,755 @@
+{
+  "ui": {
+    "skip": "Chuyển đến nội dung",
+    "chooseLang": "Ngôn ngữ",
+    "home": "Trang chủ",
+    "heroTitle": "Hoạt động ngoài trời quanh Calgary, giải thích cho người mới đến",
+    "heroText": "Núi, sông, công viên và những vùng đất công rất rộng chỉ cách Calgary một quãng lái xe ngắn, và nhiều nơi miễn phí. Hướng dẫn này giải thích các loại vé (pass), quy định và điều cơ bản về an toàn bằng lời đơn giản, mỗi lần đều có đường dẫn đến nguồn chính thức.",
+    "chipStart": "Bắt đầu ở đây",
+    "chipMap": "Bản đồ",
+    "chipSafety": "An toàn",
+    "emergencyTitle": "Khi khẩn cấp, gọi 911.",
+    "emergencyText": "Gọi 911 miễn phí và bạn có thể xin thông dịch viên: nói \"interpreter\" và tên ngôn ngữ của bạn. Ở Kananaskis, nói \"Kananaskis Country\". Nhiều vùng núi không có sóng điện thoại, vì vậy hãy báo cho một người biết bạn đi đâu trước khi đi.",
+    "mapTitle": "Bản đồ các địa điểm gần Calgary",
+    "mapSummary": "Các công viên thành phố, công viên tỉnh và công viên quốc gia nên đến trước, và cách đi đến đó.",
+    "mapIntro": "Đây là những nơi tốt để đến lần đầu, từ công viên thành phố đi xe buýt được đến dãy núi Rocky Mountains cách khoảng 1 đến 2 giờ về phía tây. Bấm vào một địa điểm để xem đó là gì và bạn cần loại pass nào. Các điểm trên bản đồ chỉ là gần đúng.",
+    "officialMapsTitle": "Dùng bản đồ chính thức để biết quy định và ranh giới",
+    "officialMapsText": "Bản đồ này chỉ để tìm địa điểm. Nó không cho thấy ranh giới đất, nơi bị đóng cửa, lệnh cấm đốt lửa hay khu vực săn bắn. Hãy xem bản đồ và cảnh báo chính thức trước khi đi.",
+    "kind_city": "Công viên thành phố (miễn phí)",
+    "kind_provincial": "Công viên tỉnh / Kananaskis",
+    "kind_national": "Công viên quốc gia (pass của Parks Canada)",
+    "kind_town": "Thị trấn trên núi",
+    "kind_water": "Hồ hoặc hồ chứa nước",
+    "officialSources": "Nguồn chính thức",
+    "lastChecked": "Thông tin được kiểm tra lần cuối",
+    "translationTitle": "Về bản dịch này",
+    "translationNote": "Bản dịch này được viết với sự trợ giúp của máy và có thể có lỗi. Nếu quy định quan trọng (giấy phép, tiền phạt, an toàn), hãy xem trang chính thức có đường dẫn. Bạn muốn giúp sửa? Chúng tôi rất hoan nghênh góp ý sửa lỗi ở trang About & corrections (Giới thiệu và sửa lỗi).",
+    "landAck": "Calgary nằm trên lãnh thổ truyền thống của các dân tộc thuộc Treaty 7 (Hiệp ước số 7): Liên minh Blackfoot (Siksika, Piikani, Amskaapipiikani và Kainai), dân tộc Tsuut'ina, và Îyâxe Nakoda (Chiniki, Bearspaw và Goodstoney). Calgary cũng là nơi có Otipemisiwak Métis Government, Quận 5 và 6.",
+    "disclaimer": "Open Trails Canada là một hướng dẫn cộng đồng độc lập, không phải trang web của chính phủ. Quy định, giá cả và việc đóng cửa có thể thay đổi. Luôn xem nguồn chính thức có đường dẫn trên mỗi trang.",
+    "aboutLink": "About & corrections (Giới thiệu và sửa lỗi)",
+    "aboutTitle": "Về hướng dẫn này"
+  },
+  "topics": [
+    {
+      "id": "start",
+      "icon": "🧭",
+      "title": "Bắt đầu ở đây",
+      "summary": "Cái gì miễn phí, cái gì phải trả tiền, và một kế hoạch đơn giản cho chuyến đi đầu tiên.",
+      "blocks": [
+        {
+          "h": "Tin tốt: nhiều thứ miễn phí",
+          "list": [
+            "**Công viên thành phố miễn phí.** Fish Creek Provincial Park, Nose Hill Park, Edworthy Park và các đường đi dọc sông nằm trong Calgary, và bạn có thể đến nhiều nơi bằng Calgary Transit (xe buýt và tàu của thành phố).",
+            "**Phần lớn Alberta là đất công.** Khoảng 60% diện tích tỉnh là Crown land (đất của Nhà nước), do chính phủ sở hữu cho công chúng. Trên phần lớn đất này, bạn có thể đi bộ, đi bộ đường dài, picnic và cắm trại. Một số hoạt động cần pass, và một số khu vực bị đóng hoặc đã cho thuê. Xem hướng dẫn về Đất công.",
+            "**Trẻ em được vào miễn phí công viên quốc gia.** Người từ 17 tuổi trở xuống được vào miễn phí các địa điểm của Parks Canada.",
+            "**Người mới đến có thể được vào công viên quốc gia miễn phí.** Ứng dụng miễn phí Canoo cho vào cửa Parks Canada miễn phí trong một năm cho thường trú nhân mới (trong vòng 5 năm kể từ khi thành PR) và công dân mới (trong vòng 1 năm kể từ ngày tuyên thệ)."
+          ],
+          "links": [
+            "canoo"
+          ]
+        },
+        {
+          "h": "Ba loại pass được hỏi nhiều nhất",
+          "list": [
+            "**Parks Canada pass** (vé công viên quốc gia): cho các công viên quốc gia như Banff, Yoho và Jasper. {pc_adult_day} mỗi người lớn mỗi ngày, hoặc {pc_group_day} mỗi ngày cho một gia đình hay nhóm tối đa 7 người trên một xe. Discovery Pass hằng năm cho gia đình là {pc_discovery_family}.",
+            "**Kananaskis Conservation Pass**: để đậu xe ở Kananaskis Country và Bow Valley, khoảng 1 giờ về phía tây Calgary. {kpass_day} mỗi ngày hoặc {kpass_year} mỗi năm, gắn với biển số xe của bạn.",
+            "**Public Lands Camping Pass**: để cắm trại trên đất công bên ngoài khu cắm trại, ở vùng đồi chân núi và vùng núi. {pclcp_3day} cho 3 ngày hoặc {pclcp_year} cho một năm, mỗi người lớn."
+          ],
+          "links": [
+            "pc_fees",
+            "kpass",
+            "pclcp"
+          ]
+        },
+        {
+          "h": "Một chuyến đi đầu tiên đơn giản",
+          "kind": "tip",
+          "list": [
+            "Bắt đầu với một công viên thành phố hoặc một đường mòn dễ gần Canmore hay Bragg Creek trước khi thử đi bộ đường dài trên núi.",
+            "Xem thời tiết và tình trạng đường mòn một ngày trước. Thời tiết trên núi thay đổi nhanh, kể cả mùa hè.",
+            "Mang nước, đồ ăn, một áo ấm, áo mưa, điện thoại sạc đầy và bản đồ dùng được khi không có mạng.",
+            "Ở Kananaskis hoặc Banff, mang bình xịt gấu (bear spray) và biết cách dùng.",
+            "Báo cho một người biết bạn đi đâu và khi nào bạn về."
+          ]
+        },
+        {
+          "h": "Bạn không cần đồ đắt tiền để bắt đầu",
+          "p": "Giày thoải mái, nhiều lớp quần áo và một ba lô là đủ cho hầu hết các đường mòn dễ. Bạn có thể thuê hoặc mượn lều, ván trượt tuyết và đồ khác. Xem Học, mượn đồ và tham gia."
+        }
+      ]
+    },
+    {
+      "id": "passes",
+      "icon": "🎟️",
+      "title": "Pass và lệ phí",
+      "summary": "Bạn cần pass nào cho nơi nào, giá bao nhiêu, và mua ở đâu.",
+      "blocks": [
+        {
+          "h": "Công viên quốc gia (Banff, Yoho, Kootenay, Jasper, Waterton)",
+          "p": [
+            "Bạn cần vé vào cửa của Parks Canada để dừng lại trong công viên quốc gia. Bạn có thể mua trực tuyến, ở cổng công viên trên đường cao tốc, hoặc ở trung tâm du khách.",
+            "Theo ngày: {pc_adult_day} mỗi người lớn, {pc_senior_day} mỗi người cao tuổi (65+), hoặc {pc_group_day} mỗi gia đình hay nhóm (tối đa 7 người trên một xe). Người từ 17 tuổi trở xuống miễn phí.",
+            "**Parks Canada Discovery Pass** có giá trị 12 tháng và dùng được ở hơn 80 địa điểm của Parks Canada: {pc_discovery_adult} cho một người lớn, {pc_discovery_senior} cho một người cao tuổi, hoặc {pc_discovery_family} cho một gia đình hay nhóm. Nếu bạn đi hơn khoảng 7 ngày trong một năm, pass này giúp tiết kiệm tiền."
+          ],
+          "links": [
+            "pc_fees",
+            "pc_discovery"
+          ]
+        },
+        {
+          "h": "Vào cửa miễn phí cho công dân mới: Canoo",
+          "kind": "tip",
+          "p": "Canoo là ứng dụng miễn phí của Institute for Canadian Citizenship. Nếu bạn trở thành thường trú nhân trong 5 năm qua, hoặc thành công dân trong năm qua, ứng dụng có thể cho bạn vào cửa Parks Canada miễn phí trong một năm, cùng với tối đa 4 người con dưới 18 tuổi. Nó không bao gồm cắm trại, suối nước nóng, giấy phép hay tour. Vợ hoặc chồng cần có tài khoản riêng. Xem ứng dụng để biết quy định hiện tại.",
+          "links": [
+            "canoo"
+          ]
+        },
+        {
+          "h": "Kananaskis Conservation Pass",
+          "p": [
+            "Kananaskis Country là một vùng núi rộng ở phía tây Calgary, có nhiều đường mòn, hồ và khu cắm trại. Nếu bạn đậu xe ở đó, hoặc ở các công viên Bow Valley gần Canmore, bạn cần pass này. Bạn không cần nếu chỉ lái xe đi ngang qua, hoặc đến bằng đi bộ hay xe đạp.",
+            "Giá: {kpass_day} mỗi ngày mỗi xe, hoặc {kpass_year} mỗi năm cho tối đa 3 xe. Pass gắn với biển số xe của bạn. Hãy mua trực tuyến trước khi đi, vì ở đó thường không có sóng điện thoại. Người First Nations có Status và một số người Alberta có thu nhập thấp có thể được nhận miễn phí."
+          ],
+          "links": [
+            "kpass",
+            "kpass_buy"
+          ]
+        },
+        {
+          "h": "Public Lands Camping Pass",
+          "p": [
+            "Bạn cần pass này nếu bạn từ 18 tuổi trở lên và cắm trại trên đất công ở sườn phía đông dãy Rockies (Eastern Slopes, từ Grande Prairie đến Waterton), bên ngoài khu cắm trại.",
+            "Giá: {pclcp_3day} cho 3 ngày hoặc {pclcp_year} cho một năm, mỗi người, cộng thêm một khoản phí xử lý nhỏ. Bạn cũng cần số WIN ({win_fee}, chỉ một lần). Mua trên AlbertaRELM. Bạn không cần pass này cho chuyến đi trong ngày hoặc ở khu cắm trại có trả phí."
+          ],
+          "links": [
+            "pclcp",
+            "relm"
+          ]
+        },
+        {
+          "h": "Công viên tỉnh của Alberta",
+          "p": "Hầu hết công viên tỉnh không thu phí vào cửa khi đi trong ngày. Bạn trả tiền cho chỗ cắm trại, và bạn cần Kananaskis pass ở Kananaskis và Bow Valley. Đặt chỗ cắm trại qua hệ thống đặt chỗ của Alberta Parks.",
+          "links": [
+            "ab_parks",
+            "ab_reserve"
+          ]
+        },
+        {
+          "h": "Giấy phép câu cá và săn bắn",
+          "p": "Câu cá và săn bắn cần giấy phép riêng. Xem hướng dẫn về Câu cá và Săn bắn."
+        }
+      ]
+    },
+    {
+      "id": "hiking",
+      "icon": "🥾",
+      "title": "Đi bộ đường dài và đi dạo",
+      "summary": "Những nơi dễ để bắt đầu, cách đến đó khi không có xe, và phép lịch sự trên đường mòn.",
+      "blocks": [
+        {
+          "h": "Trong Calgary (miễn phí, nhiều nơi đi xe buýt hoặc tàu được)",
+          "list": [
+            "**Fish Creek Provincial Park**: một trong những công viên thành phố lớn nhất Canada, ở phía nam Calgary, có hơn 100 km đường mòn. Chỉ mở ban ngày (không ở qua đêm).",
+            "**Nose Hill Park**: đồng cỏ rộng ở phía bắc Calgary, nhìn thấy núi rất rõ vào ngày trời quang.",
+            "**Edworthy Park và Douglas Fir Trail**: đường mòn trong rừng có bậc thang, phía trên sông Bow River.",
+            "**Glenbow Ranch Provincial Park**: ngay phía tây thành phố, có cảnh thung lũng sông và đường sỏi rộng. Bạn cần xe hơi để đến đó."
+          ],
+          "links": [
+            "calgary_parks",
+            "transit"
+          ]
+        },
+        {
+          "h": "Chuyến đi trong ngày lên núi",
+          "p": [
+            "Canmore và Banff cách khoảng 1 đến 1,5 giờ về phía tây trên Highway 1. Bragg Creek và Kananaskis cách 45 đến 90 phút. Hãy bắt đầu với những đường mòn ngắn, nổi tiếng, có nhiều người đi.",
+            "Không có xe? Các công ty xe buýt tư nhân chạy giữa Calgary, Canmore và Banff. On-It Regional Transit đã từng chạy xe buýt từ Calgary đến Banff và Kananaskis vào mùa hè (xem lịch hiện tại). Ở Banff và Canmore, xe buýt Roam Transit đi đến đầu đường mòn và các hồ."
+          ],
+          "links": [
+            "onit",
+            "roam",
+            "ab_parks_trails"
+          ]
+        },
+        {
+          "h": "Phép lịch sự trên đường mòn ở Canada",
+          "list": [
+            "Đi đúng trên đường mòn. Đi vòng qua chỗ bùn làm hỏng cây cỏ và làm đường mòn rộng ra.",
+            "Mang về tất cả những gì bạn mang theo, kể cả đồ ăn thừa và giấy vệ sinh.",
+            "Chó phải được buộc dây ở công viên quốc gia và hầu hết công viên tỉnh.",
+            "Không hái hoa, lấy đá hay sừng hươu, hoặc cho thú ăn. Trong công viên, làm vậy có thể bị phạt tiền.",
+            "Người đi lên dốc được ưu tiên. Tránh sang một bên cho xe đạp và ngựa khi an toàn.",
+            "Mở nhạc bằng loa bị coi là bất lịch sự trên hầu hết các đường mòn."
+          ],
+          "links": [
+            "lnt"
+          ]
+        },
+        {
+          "h": "Nên mang gì (\"10 món cần thiết\")",
+          "kind": "tip",
+          "list": [
+            "Nước và thêm đồ ăn",
+            "Áo ấm và áo mưa, kể cả mùa hè",
+            "Bản đồ hoặc ứng dụng bản đồ không cần mạng, và điện thoại đã sạc hoặc sạc dự phòng",
+            "Đèn đội đầu hoặc đèn pin",
+            "Bộ sơ cứu",
+            "Bình xịt gấu ở Kananaskis và các công viên trên núi",
+            "Chống nắng: mũ, kính râm, kem chống nắng",
+            "Còi",
+            "Dao bỏ túi",
+            "Chăn khẩn cấp"
+          ],
+          "links": [
+            "adventuresmart"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "camping",
+      "icon": "⛺",
+      "title": "Cắm trại",
+      "summary": "Khu cắm trại, ngày đặt chỗ, và cắm trại miễn phí trên đất công.",
+      "blocks": [
+        {
+          "h": "Khu cắm trại: cách dễ nhất để bắt đầu",
+          "p": [
+            "Khu cắm trại có chỗ được đánh số, nhà vệ sinh, và thường có nước và nhân viên. Bạn đặt chỗ trực tuyến. Chỗ được ưa chuộng vào cuối tuần mùa hè hết rất nhanh khi mở đặt chỗ, thường nhiều tháng trước. Ngày thường trong tuần và tháng 9 dễ đặt hơn.",
+            "Đặt chỗ cắm trại ở công viên tỉnh Alberta (kể cả Kananaskis) qua Alberta Parks. Đặt chỗ cắm trại ở công viên quốc gia (Banff, Jasper và các nơi khác) qua Parks Canada."
+          ],
+          "links": [
+            "ab_reserve",
+            "pc_reserve"
+          ]
+        },
+        {
+          "h": "Chưa từng cắm trại? Thử một chương trình cho người mới",
+          "kind": "tip",
+          "p": "Parks Canada tổ chức các buổi Learn-to-Camp (học cắm trại) ở một số nơi, và một số nhóm cho mượn đồ hoặc tổ chức chuyến đi cho người mới đến. Xem Học, mượn đồ và tham gia.",
+          "links": [
+            "pc_learn_camp"
+          ]
+        },
+        {
+          "h": "Cắm trại trên đất công (random camping)",
+          "p": [
+            "Bạn cũng có thể cắm trại bên ngoài khu cắm trại trên phần lớn đất công. Việc này gọi là random camping hoặc dispersed camping (cắm trại tự do). Không có nhà vệ sinh, không có nước và không có nhân viên, nên bạn phải tự lo mọi thứ.",
+            "Ở sườn phía đông dãy Rockies (Eastern Slopes), người lớn cần Public Lands Camping Pass ({pclcp_3day} cho 3 ngày hoặc {pclcp_year} cho một năm)."
+          ],
+          "list": [
+            "Ở tối đa {random_max_days} ngày tại một chỗ. Sau đó dời đi cách ít nhất 1 km trong 72 giờ.",
+            "Cắm trại cách hồ và suối ít nhất 30 m, và cách các điểm dầu khí ít nhất 100 m.",
+            "Không cắm trại trong vòng 1 km quanh công viên tỉnh, khu giải trí hoặc khu cắm trại. Ở các khu Kananaskis, McLean Creek, Sibbald và Cataract Creek, không cắm trại trong vòng 1 km quanh đường xe chạy.",
+            "Kiểm tra lệnh cấm đốt lửa trước khi đốt bất kỳ ngọn lửa nào.",
+            "Mang hết rác về nhà. Chôn chất thải của người sâu ít nhất 15 cm và cách nguồn nước ít nhất 70 m. Mang giấy vệ sinh về."
+          ],
+          "links": [
+            "pclcp",
+            "random_camping",
+            "firebans"
+          ]
+        },
+        {
+          "h": "Đồ ăn và gấu",
+          "kind": "warn",
+          "p": "Không bao giờ để đồ ăn, rác, kem đánh răng hay đồ nấu ăn trong lều. Cất chúng trong xe có vỏ cứng đã khóa hoặc trong tủ chống gấu (bear locker). Ở khu cắm trại, để đồ ăn bên ngoài có thể bị phạt tiền, vì gấu đã ăn được đồ ăn của người thường phải bị giết."
+        }
+      ]
+    },
+    {
+      "id": "public-land",
+      "icon": "🌲",
+      "title": "Đất công (Crown land)",
+      "summary": "\"Crown land\" nghĩa là gì, bạn được đi đâu, và cách phân biệt đất công với đất tư.",
+      "blocks": [
+        {
+          "h": "Crown land là gì?",
+          "p": [
+            "\"Crown land\" là đất do chính phủ sở hữu cho công chúng. Khoảng 60% Alberta là Crown land. Nó gồm các công viên, và cả những vùng **đất công** (public land) rất rộng trong rừng và vùng đồi chân núi phía tây Calgary và ở phía bắc.",
+            "Nhiều người mới đến không biết điều này: trên phần lớn đất công, bất kỳ ai cũng có thể đi bộ, đi bộ đường dài, đạp xe, picnic, ngắm chim và cắm trại mà không cần xin phép."
+          ],
+          "links": [
+            "public_land",
+            "crown_vision"
+          ]
+        },
+        {
+          "h": "Green Area và White Area",
+          "list": [
+            "**Green Area** (Vùng Xanh): chủ yếu là rừng ở phía bắc, vùng núi và vùng đồi chân núi. Phần lớn đất này là đất công và mở cửa cho giải trí.",
+            "**White Area** (Vùng Trắng): vùng đất nông nghiệp có dân cư ở miền trung, miền nam và miền đông Alberta, kể cả Calgary. Phần lớn đất ở đây là đất tư. Có một ít đất công, nhưng phần nhiều đã cho chủ trang trại thuê."
+          ]
+        },
+        {
+          "h": "Đất tư: luôn xin phép trước",
+          "kind": "warn",
+          "p": [
+            "Ở Alberta, bạn cần sự cho phép của chủ đất hoặc người đang sử dụng đất để vào đất tư, kể cả khi đi săn. Vào mà không xin phép là xâm nhập trái phép (trespassing) và bạn có thể bị phạt tiền.",
+            "Một số đất công được cho chủ trang trại thuê để chăn thả. Bạn thường có thể dùng đất này để giải trí, nhưng phải liên lạc với người thuê đất trước. Người thuê đất phải cho phép vào ở mức hợp lý, trừ khi việc đó gây nguy hiểm cho đất, cây trồng hoặc vật nuôi. Bản đồ trực tuyến chính thức cho biết cần liên lạc với ai. Hãy hỏi vài ngày trước khi đi."
+          ],
+          "links": [
+            "trespass",
+            "grazing_access"
+          ]
+        },
+        {
+          "h": "Public Land Use Zones (PLUZ)",
+          "p": "Một số đất công gần Calgary nằm trong Public Land Use Zone (PLUZ, Khu sử dụng đất công), ví dụ Kananaskis, McLean Creek và Sibbald. Các khu này có thêm quy định. Xe địa hình (OHV) chỉ được chạy trên đường mòn có đánh dấu, và một số khu vực đóng cửa vào một số mùa. Trên đất công, người lái OHV phải đội mũ bảo hiểm và xe phải được đăng ký và có bảo hiểm.",
+          "links": [
+            "pluz",
+            "ohv"
+          ]
+        },
+        {
+          "h": "Cách biết bạn đang ở trên loại đất nào",
+          "kind": "tip",
+          "list": [
+            "Dùng bản đồ giải trí trên đất công chính thức của Alberta. Bản đồ cho thấy đường mòn, các khu và nơi bị đóng cửa.",
+            "Tải bản đồ dùng không cần mạng trước khi mất sóng điện thoại.",
+            "Biển ghi \"No trespassing\" (Cấm vào), \"Private property\" (Đất tư) hoặc có số hợp đồng thuê đất nghĩa là bạn không được vào khi chưa xin phép.",
+            "Nếu không chắc, đừng vào. Hãy hỏi chính quyền hạt (county) hoặc văn phòng đất đai."
+          ],
+          "links": [
+            "trail_maps"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fishing",
+      "icon": "🎣",
+      "title": "Câu cá",
+      "summary": "Ai cần giấy phép, cách xin giấy phép, và những quy định làm người mới ngạc nhiên.",
+      "blocks": [
+        {
+          "h": "Tôi có cần giấy phép không?",
+          "p": [
+            "Có, nếu bạn từ 16 tuổi trở lên. Cư dân Alberta dưới 16 tuổi hoặc từ 65 tuổi trở lên có thể câu cá không cần giấy phép, nhưng vẫn phải tuân theo mọi quy định.",
+            "Bạn là cư dân Alberta về câu cá nếu bạn là công dân Canada hoặc thường trú nhân và nhà chính của bạn ở Alberta. Đầu tiên bạn lấy số **WIN** (Wildlife Identification Number, số nhận dạng động vật hoang dã, {win_fee}, chỉ một lần). Sau đó bạn mua giấy phép câu cá thể thao: {fish_resident} mỗi năm cho cư dân. Bạn có thể mua cả hai trực tuyến trên AlbertaRELM hoặc ở nhiều cửa hàng đồ thể thao và đồ ngũ kim."
+          ],
+          "links": [
+            "fish_licence",
+            "relm"
+          ]
+        },
+        {
+          "h": "Cuối tuần câu cá miễn phí",
+          "kind": "tip",
+          "p": "Alberta thường có hai Family Fishing Weekends (cuối tuần câu cá gia đình) mỗi năm, vào tháng 2 và tháng 7, khi mọi người được câu cá ở Alberta không cần giấy phép. Mọi quy định khác vẫn áp dụng, và không bao gồm công viên quốc gia. Xem trang chính thức để biết ngày của năm sau.",
+          "links": [
+            "fish_free"
+          ]
+        },
+        {
+          "h": "Những quy định làm mọi người ngạc nhiên",
+          "list": [
+            "Mỗi hồ và sông có quy định riêng: mùa được câu, giới hạn kích thước, số cá được giữ lại, và quy định về mồi. Nhiều vùng nước gần Calgary bắt buộc câu xong thả lại (catch-and-release) đối với một số loài.",
+            "Trước khi đi, hãy xem quy định của đúng vùng nước bạn sẽ câu. Dùng sách hướng dẫn quy định chính thức hoặc bản đồ quy định câu cá chính thức.",
+            "Cá bull trout, loài cá biểu tượng của tỉnh Alberta, được bảo vệ. Nếu câu được, bạn phải thả nó lại.",
+            "Ở công viên quốc gia như Banff, bạn cần **Parks Canada fishing permit** (giấy phép câu cá của Parks Canada, {pc_fish_day} mỗi ngày hoặc {pc_fish_year} mỗi năm), cộng với vé vào công viên. Giấy phép của Alberta không dùng được ở đó.",
+            "Nhân viên Fish and Wildlife (Cá và Động vật hoang dã) có kiểm tra giấy phép. Hãy mang theo giấy phép (bản giấy hoặc trên điện thoại)."
+          ],
+          "links": [
+            "fish_regs",
+            "fish_map",
+            "pc_fishing"
+          ]
+        },
+        {
+          "h": "Bắt đầu ở đâu gần Calgary",
+          "p": "Sông Bow River chảy qua Calgary nổi tiếng về câu cá hồi (trout). Ao và hồ được thả cá thường dễ hơn cho người mới. Alberta có công bố những vùng nước nào được thả cá.",
+          "links": [
+            "fish_stocking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hunting",
+      "icon": "🦌",
+      "title": "Săn bắn",
+      "summary": "Các khóa học, giấy phép và sự cho phép bạn cần trước lần đi săn đầu tiên.",
+      "blocks": [
+        {
+          "h": "Săn bắn có quy định chặt, nhưng bạn có thể học",
+          "p": "Nhiều người Alberta đi săn để lấy thức ăn. Nếu bạn muốn học, hãy lên kế hoạch trước: bạn cần một khóa học, giấy phép và, nếu săn bằng súng, giấy phép súng của liên bang. Hầu hết các chuyến săn cũng cần sự cho phép để vào đất tư."
+        },
+        {
+          "h": "Bước 1: Giáo dục thợ săn",
+          "p": "Người đi săn lần đầu ở Alberta phải đậu khóa học **Alberta Conservation and Hunter Education** (Giáo dục bảo tồn và thợ săn Alberta) trước khi mua giấy phép săn. Bạn phải ít nhất 12 tuổi (10 tuổi đối với chim săn). Bạn cũng cần số WIN, cùng số dùng cho câu cá.",
+          "links": [
+            "hunter_ed",
+            "relm"
+          ]
+        },
+        {
+          "h": "Bước 2: Giấy phép súng (PAL)",
+          "p": "Để sở hữu hoặc mua súng hay đạn ở Canada, bạn cần **Possession and Acquisition Licence (PAL)** (giấy phép sở hữu và mua súng) do RCMP cấp. Đầu tiên bạn phải đậu Canadian Firearms Safety Course (CFSC, khóa an toàn súng của Canada). Xin PAL có thể mất vài tuần hoặc vài tháng, nên hãy bắt đầu sớm. Cung tên có quy định riêng trong quy định săn bắn.",
+          "links": [
+            "pal"
+          ]
+        },
+        {
+          "h": "Bước 3: Giấy phép và tư cách cư dân",
+          "p": [
+            "Về săn bắn, bạn là cư dân Alberta nếu nhà chính của bạn ở Alberta **và** bạn là công dân Canada hoặc thường trú nhân, hoặc bạn đã sống ở Canada trong 12 tháng vừa qua. Vì vậy thường trú nhân có thể mua giấy phép dành cho cư dân.",
+            "Hầu hết việc săn cần một wildlife certificate (chứng nhận động vật hoang dã) cộng với giấy phép hoặc thẻ (tag) cho từng loài. Một số giấy phép được cấp bằng bốc thăm (xổ số), bạn phải nộp đơn nhiều tháng trước."
+          ],
+          "links": [
+            "hunt_regs"
+          ]
+        },
+        {
+          "h": "Quy định quan trọng",
+          "kind": "warn",
+          "list": [
+            "Bạn cần sự cho phép của chủ đất hoặc người đang sử dụng đất để săn trên đất tư.",
+            "Không được săn trong công viên quốc gia, và bị hạn chế ở nhiều công viên tỉnh.",
+            "Mỗi loài có mùa săn và khu vực riêng (Wildlife Management Units). Hãy xem quy định mỗi năm, vì quy định thay đổi.",
+            "Mặc màu cam chói (blaze orange) ở nơi có yêu cầu, và không bao giờ bắn nếu bạn chưa chắc chắn về mục tiêu và những gì ở phía sau nó."
+          ],
+          "links": [
+            "hunt_regs",
+            "trespass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "water",
+      "icon": "🛶",
+      "title": "Sông, hồ và chèo thuyền",
+      "summary": "Áo phao, nước lạnh, sông Bow River, và quy định về thuyền.",
+      "blocks": [
+        {
+          "h": "Nước lạnh, chảy xiết",
+          "kind": "warn",
+          "p": [
+            "Hồ và sông trên núi ở Alberta rất lạnh, kể cả tháng 7, vì nước đến từ tuyết và sông băng. Nước lạnh có thể làm bạn mất sức chỉ trong vài phút.",
+            "Sông Bow và sông Elbow ở Calgary lạnh và chảy xiết, nhất là vào tháng 6. Năm nào cũng có người chết đuối ở đây. Hãy xem tình trạng sông và các cảnh báo trước khi đi."
+          ],
+          "links": [
+            "calgary_river",
+            "cold_water"
+          ]
+        },
+        {
+          "h": "Áo phao",
+          "p": "Theo luật, mọi thuyền, xuồng canoe, kayak và ván chèo đứng (paddleboard) phải mang theo áo phao được Canada chấp thuận, vừa với mỗi người trên thuyền. **Ở Calgary, luật thành phố (bylaw) quy định bạn phải mặc áo phao** trên mọi con sông và đường thủy, với tiền phạt lên đến {calgary_lifejacket_fine}. Rượu bia và ma túy trên mặt nước cũng là phạm pháp.",
+          "links": [
+            "tc_boating",
+            "calgary_river",
+            "calgary_river_access"
+          ]
+        },
+        {
+          "h": "Thuyền có động cơ",
+          "p": "Để lái bất kỳ thuyền có động cơ nào ở Canada, kể cả động cơ điện nhỏ, bạn cần giấy chứng nhận năng lực, thường là **Pleasure Craft Operator Card** (thẻ lái thuyền giải trí). Bạn được cấp thẻ dùng suốt đời khi đậu bài thi với một đơn vị được Transport Canada công nhận. Thuyền có động cơ không được chạy trên các con sông trong Calgary, và một số hồ không cho dùng động cơ.",
+          "links": [
+            "pcoc"
+          ]
+        },
+        {
+          "h": "Glenmore Reservoir",
+          "p": "Hồ chứa Glenmore Reservoir ở phía nam Calgary mở cửa cho xuồng canoe, kayak và thuyền buồm từ ngày 1 tháng 5 đến ngày 31 tháng 10. Đây là nguồn nước uống, nên cấm bơi, ván chèo đứng, đồ bơm hơi, động cơ và thú nuôi, và phải mặc áo phao.",
+          "links": [
+            "glenmore"
+          ]
+        },
+        {
+          "h": "Ngăn chặn loài vẹm xâm lấn",
+          "p": "Nếu bạn mang thuyền, xuồng canoe hoặc ván chèo đứng từ nơi khác đến, hãy làm sạch, xả hết nước và phơi khô để ngăn loài vẹm xâm lấn (invasive mussels). Nếu bạn đi qua một trạm kiểm tra phương tiện thủy đang mở cửa khi chở bất kỳ loại thuyền nào, bạn phải dừng lại.",
+          "links": [
+            "mussels"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "winter",
+      "icon": "❄️",
+      "title": "Hoạt động ngoài trời mùa đông",
+      "summary": "Giữ ấm, trượt băng và trượt tuyết, và an toàn khi có tuyết lở.",
+      "blocks": [
+        {
+          "h": "Mùa đông ở đây rất tuyệt",
+          "p": "Calgary có sân trượt băng ngoài trời miễn phí, đường trượt tuyết băng đồng (cross-country) trong công viên thành phố và ở Kananaskis, và đồi trượt tuyết đổ dốc cách 1 đến 2 giờ. Đi giày tuyết (snowshoeing) dễ học và rẻ: bạn có thể thuê giày tuyết theo ngày.",
+          "links": [
+            "calgary_skating"
+          ]
+        },
+        {
+          "h": "Mặc nhiều lớp",
+          "kind": "tip",
+          "list": [
+            "Lớp trong cùng giúp thoát mồ hôi (len hoặc vải tổng hợp, không dùng cotton)",
+            "Lớp giữa giữ ấm (vải nỉ fleece hoặc len)",
+            "Áo khoác và quần ngoài chắn gió",
+            "Mũ, găng tay ấm, tất ấm và giày bốt mùa đông",
+            "Khi có gió, tê cóng (frostbite) có thể xảy ra trong vài phút. Hãy xem thời tiết và nhiệt độ cảm nhận do gió (wind chill) trước khi ra ngoài."
+          ]
+        },
+        {
+          "h": "Tuyết lở",
+          "kind": "warn",
+          "p": [
+            "Trên núi, tuyết trên sườn dốc có thể trượt xuống. Tuyết lở làm chết người ở Alberta và B.C. mỗi mùa đông. Nhiều đường mòn đi bộ nổi tiếng vào mùa hè đi qua vùng có nguy cơ tuyết lở vào mùa đông.",
+            "Nếu bạn lên núi vào mùa đông, hãy xem dự báo hằng ngày của Avalanche Canada và chọn đường mòn an toàn vào mùa đông. Trước khi vào vùng có nguy cơ tuyết lở, hãy học khóa Avalanche Skills Training 1 (AST 1, kỹ năng tuyết lở cấp 1). Khóa học kéo dài khoảng 2 ngày và không cần kinh nghiệm."
+          ],
+          "links": [
+            "avalanche",
+            "ast"
+          ]
+        },
+        {
+          "h": "Lái xe mùa đông",
+          "p": "Đường cao tốc trên núi có thể đóng băng hoặc bị đóng. Dùng lốp xe mùa đông và xem tình trạng đường trên 511 Alberta trước khi đi. Mang theo quần áo ấm, nước, xẻng và điện thoại đã sạc.",
+          "links": [
+            "ab511"
+          ]
+        },
+        {
+          "h": "An toàn trên băng",
+          "p": "Không bao giờ đi trên băng của sông hay trên các hồ chứa nước mưa (storm pond) trong khu bạn ở: băng không chắc. Hãy trượt băng ở sân của Thành phố, nơi được kiểm tra mỗi ngày.",
+          "links": [
+            "calgary_ice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "safety",
+      "icon": "⚠️",
+      "title": "An toàn: động vật hoang dã, lửa, thời tiết",
+      "summary": "Gấu và các động vật hoang dã khác, lệnh cấm đốt lửa, kế hoạch chuyến đi, và làm gì khi có sự cố.",
+      "blocks": [
+        {
+          "h": "Khẩn cấp",
+          "kind": "warn",
+          "list": [
+            "Gọi **911** để gặp cảnh sát, cứu hỏa, xe cứu thương hoặc đội tìm kiếm cứu nạn. Gọi miễn phí và bạn có thể xin thông dịch viên. Ở Kananaskis, nói \"Kananaskis Country\" để được nối với K-Country Emergency Services.",
+            "Nhiều thung lũng trên núi không có sóng điện thoại. Thiết bị nhắn tin vệ tinh là khoản đầu tư tốt nếu bạn hay đi bộ đường dài.",
+            "Trước khi đi, hãy lập kế hoạch chuyến đi (đi đâu, với ai, khi nào về) và đưa cho một người bạn tin tưởng. Ứng dụng miễn phí AdventureSmart có thể giúp."
+          ],
+          "links": [
+            "adventuresmart",
+            "k_safety"
+          ]
+        },
+        {
+          "h": "Gấu",
+          "list": [
+            "Gấu đen và gấu xám (grizzly) sống ở vùng núi và vùng đồi chân núi, và đôi khi đến gần Calgary.",
+            "Mang **bình xịt gấu** (bear spray) ở chỗ dễ lấy (không để trong ba lô), và học cách dùng. Bình xịt được bán ở cửa hàng đồ ngoài trời và cửa hàng ngũ kim.",
+            "Tạo tiếng động, đi theo nhóm và giữ trẻ em ở gần.",
+            "Nếu thấy gấu, hãy bình tĩnh, đừng chạy, và từ từ lùi lại. Không bao giờ đến gần gấu để chụp ảnh."
+          ],
+          "links": [
+            "bearsmart",
+            "k_bears",
+            "pc_bears"
+          ]
+        },
+        {
+          "h": "Động vật hoang dã khác",
+          "list": [
+            "Nai sừng tấm (elk), nai sừng tấm lớn (moose) và hươu có thể nguy hiểm, nhất là vào mùa xuân khi chúng có con nhỏ và mùa thu vào mùa giao phối.",
+            "Trong công viên quốc gia, hãy đứng cách nai elk, hươu, cừu núi và moose ít nhất 30 m (dài bằng 3 xe buýt), và cách gấu, chó sói, báo sư tử (cougar) và sói đồng cỏ (coyote) ít nhất 100 m (dài bằng 10 xe buýt).",
+            "Cho động vật hoang dã ăn, kể cả chim và sóc, là phạm pháp trong công viên quốc gia. Tiền phạt có thể lên đến {pc_wildlife_fine}.",
+            "Nếu thấy thú từ trong xe, đừng dừng lại trên đường cao tốc. Hãy ở yên trong xe."
+          ],
+          "links": [
+            "pc_wildlife"
+          ]
+        },
+        {
+          "h": "Lửa",
+          "p": [
+            "Cháy rừng là mối nguy hiểm nghiêm trọng ở Alberta, nhất là vào mùa hè. Lệnh cấm và hạn chế đốt lửa xảy ra thường xuyên, và có thể thay đổi mỗi ngày.",
+            "Xem Alberta Fire Bans (trang web hoặc ứng dụng) trước khi đốt lửa trại. Dùng chỗ đốt lửa có sẵn, giữ lửa nhỏ, và tưới nước lên lửa cho đến khi sờ vào thấy nguội. Từ ngày 1 tháng 3 đến ngày 31 tháng 10, các việc đốt khác trong vùng rừng cần giấy phép đốt lửa miễn phí."
+          ],
+          "links": [
+            "firebans",
+            "fire_permit"
+          ]
+        },
+        {
+          "h": "Thời tiết và độ cao",
+          "list": [
+            "Giông bão thường xảy ra vào buổi chiều mùa hè. Hãy đi sớm và xuống núi nếu trời tối lại.",
+            "Tuyết có thể rơi trên núi vào bất kỳ tháng nào.",
+            "Nắng mạnh hơn ở trên cao. Dùng kem chống nắng và uống nhiều nước."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "programs",
+      "icon": "🤝",
+      "title": "Học, mượn đồ và tham gia",
+      "summary": "Chương trình cho người mới, nơi thuê đồ, và các nhóm chào đón người mới đến.",
+      "blocks": [
+        {
+          "h": "Học",
+          "list": [
+            "**Parks Canada Learn-to-Camp**: chương trình cho người mới, dạy cách dựng lều, nấu ăn ngoài trời và giữ an toàn. Ngày và địa điểm thay đổi mỗi năm.",
+            "**Outdoor Council of Canada Field Leader (Hiking)**: khóa học 2 ngày qua University of Calgary, dạy bạn cách dẫn nhóm đi bộ đường dài an toàn.",
+            "**City of Calgary Fee Assistance** (hỗ trợ lệ phí của Thành phố Calgary): nếu chi phí là trở ngại, bạn có thể được giảm đến 90% cho các chương trình và vé giải trí của Thành phố."
+          ],
+          "links": [
+            "pc_learn_camp",
+            "field_leader",
+            "calgary_fee_assist"
+          ]
+        },
+        {
+          "h": "Thuê hoặc mượn đồ",
+          "list": [
+            "**University of Calgary Outdoor Centre**: cho thuê hàng nghìn món đồ, như lều, túi ngủ, xuồng canoe, ván trượt tuyết và giày tuyết. Hãy gọi để hỏi giá và ai được thuê.",
+            "Các cửa hàng đồ ngoài trời ở Calgary và Canmore cho thuê đồ như ván trượt tuyết, xe đạp và ván chèo đứng.",
+            "Các trang mua bán và nhóm cộng đồng là nơi tốt để tìm đồ cũ giá rẻ."
+          ],
+          "links": [
+            "ucalgary_outdoor"
+          ]
+        },
+        {
+          "h": "Tham gia một nhóm",
+          "p": "Các câu lạc bộ đi bộ đường dài, hội văn hóa và tổ chức hỗ trợ người mới đến ở Calgary đôi khi tổ chức chuyến đi theo nhóm. Đi cùng nhóm là cách an toàn và thân thiện để bắt đầu. Hãy hỏi tổ chức hỗ trợ định cư của bạn xem có gì."
+        },
+        {
+          "h": "Bạn biết một chương trình hay?",
+          "kind": "tip",
+          "p": "Danh sách này cố ý ngắn. Nếu bạn điều hành hoặc biết một chương trình cho người mới đến, xin hãy giới thiệu trên trang About (Giới thiệu)."
+        }
+      ]
+    },
+    {
+      "id": "words",
+      "icon": "📖",
+      "title": "Những từ bạn sẽ gặp",
+      "summary": "Giải thích ngắn các từ và biển báo ngoài trời dùng ở Alberta.",
+      "blocks": [
+        {
+          "terms": [
+            {
+              "t": "Crown land / public land — đất của Nhà nước / đất công",
+              "d": "Đất do chính phủ sở hữu cho công chúng. Khoảng 60% Alberta. Những phần không phải công viên thường được gọi là public land (đất công)."
+            },
+            {
+              "t": "Green Area / White Area — Vùng Xanh / Vùng Trắng",
+              "d": "Green Area là phần lớn rừng, phần lớn là đất công của Alberta. White Area là vùng đất nông nghiệp có dân cư, phần lớn là đất tư."
+            },
+            {
+              "t": "Random camping — cắm trại tự do",
+              "d": "Cắm trại bên ngoài khu cắm trại, thường là trên đất công. Còn gọi là dispersed camping."
+            },
+            {
+              "t": "Trailhead — đầu đường mòn",
+              "d": "Nơi đường mòn bắt đầu, thường có bãi đậu xe và biển báo."
+            },
+            {
+              "t": "Backcountry — vùng hoang dã xa xôi",
+              "d": "Vùng xa đường xe chạy và dịch vụ. Bạn thường cần giấy phép để cắm trại qua đêm ở vùng backcountry của công viên."
+            },
+            {
+              "t": "Frontcountry — vùng gần đường xe chạy",
+              "d": "Vùng gần đường xe chạy: khu cắm trại, khu picnic và đường mòn ngắn."
+            },
+            {
+              "t": "WIN — số nhận dạng động vật hoang dã",
+              "d": "Wildlife Identification Number. Một số lấy một lần ({win_fee}) mà bạn cần trước khi mua giấy phép câu cá, giấy phép săn hoặc Public Lands Camping Pass ở Alberta."
+            },
+            {
+              "t": "AlbertaRELM — trang web mua giấy phép chính thức",
+              "d": "Trang web chính thức của Alberta để mua giấy phép câu cá, giấy phép săn và Public Lands Camping Pass."
+            },
+            {
+              "t": "PAL — giấy phép súng",
+              "d": "Possession and Acquisition Licence. Giấy phép liên bang bạn cần để sở hữu hoặc mua súng."
+            },
+            {
+              "t": "PLUZ — khu sử dụng đất công",
+              "d": "Public Land Use Zone. Đất công có thêm quy định, nhất là cho xe địa hình."
+            },
+            {
+              "t": "OHV — xe địa hình",
+              "d": "Off-highway vehicle, như xe bốn bánh (quad, ATV), xe máy địa hình (dirt bike) hoặc xe side-by-side."
+            },
+            {
+              "t": "Catch and release — câu xong thả lại",
+              "d": "Bạn phải thả cá trở lại nước khi cá còn sống."
+            },
+            {
+              "t": "Fire ban / fire restriction — lệnh cấm đốt lửa / hạn chế đốt lửa",
+              "d": "Lệnh cấm hoặc hạn chế đốt lửa. Có thể thay đổi mỗi ngày vào mùa hè."
+            },
+            {
+              "t": "Bear spray — bình xịt gấu",
+              "d": "Bình xịt hơi cay mạnh dùng để chặn gấu khi gấu đến quá gần. Khác với bình xịt hơi cay tự vệ cá nhân."
+            },
+            {
+              "t": "Wind chill — nhiệt độ cảm nhận do gió",
+              "d": "Mức lạnh mà da cảm thấy khi có gió. Được dùng trong dự báo thời tiết mùa đông."
+            },
+            {
+              "t": "Treaty 7 — Hiệp ước số 7",
+              "d": "Hiệp ước năm 1877 giữa Hoàng gia (the Crown) và các First Nations (dân tộc bản địa) ở miền nam Alberta. Calgary nằm trên lãnh thổ Treaty 7."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "places": {
+    "fish_creek": {
+      "desc": "Công viên lớn miễn phí ở phía nam Calgary, có hơn 100 km đường mòn. Chỉ mở ban ngày. Đi được bằng CTrain và xe buýt."
+    },
+    "nose_hill": {
+      "desc": "Công viên đồng cỏ miễn phí ở phía bắc Calgary, nhìn thấy núi. Đi được bằng xe buýt."
+    },
+    "edworthy": {
+      "desc": "Công viên thành phố miễn phí có Douglas Fir Trail, một đường mòn trong rừng phía trên sông Bow River."
+    },
+    "glenmore": {
+      "desc": "Hồ chứa nước ở phía nam Calgary để chèo canoe, kayak và đi thuyền buồm. Cấm bơi."
+    },
+    "glenbow": {
+      "desc": "Công viên tỉnh ở phía tây Calgary, có cảnh thung lũng sông. Miễn phí. Bạn cần xe hơi."
+    },
+    "bragg": {
+      "desc": "West Bragg Creek có đường mòn để đi bộ đường dài, đạp xe và trượt tuyết băng đồng. Cần Kananaskis Conservation Pass để đậu xe."
+    },
+    "bow_valley": {
+      "desc": "Công viên tỉnh ở nơi bắt đầu vùng núi, có đường mòn dễ và khu cắm trại. Cần Kananaskis Conservation Pass."
+    },
+    "canmore": {
+      "desc": "Thị trấn trên núi cách khoảng 1 giờ về phía tây Calgary. Có nhiều đường mòn và dịch vụ. Có xe buýt từ Calgary."
+    },
+    "kananaskis": {
+      "desc": "Peter Lougheed Provincial Park và Kananaskis Village: hồ, đường đi bộ trên núi và khu cắm trại. Cần Kananaskis Conservation Pass."
+    },
+    "banff": {
+      "desc": "Banff National Park, công viên quốc gia đầu tiên của Canada. Cần pass của Parks Canada. Có xe buýt từ Calgary và xe Roam Transit trong công viên."
+    }
+  },
+  "about": [
+    {
+      "h": "Vì sao có hướng dẫn này",
+      "p": "Nhiều người chuyển đến Canada không bao giờ biết rằng những vùng đất rất rộng mở cửa cho họ, rằng nhiều công viên miễn phí, hoặc họ cần những pass và giấy phép nào. Hướng dẫn này giải thích những điều cơ bản đó bằng ngôn ngữ của bạn và có đường dẫn đến quy định chính thức."
+    },
+    {
+      "h": "Độ chính xác",
+      "p": "Mọi quy định trong hướng dẫn này đều lấy từ nguồn chính thức của chính phủ hoặc công viên, có đường dẫn trên trang. Quy định và giá cả có thể thay đổi, nên trang chính thức luôn là đúng nhất. Ngày kiểm tra lần cuối của mỗi trang được ghi ở cuối trang."
+    },
+    {
+      "h": "Giúp sửa lỗi",
+      "p": "Bạn thấy lỗi, có bản dịch tốt hơn, hoặc giá đã cũ? Hãy mở một issue hoặc pull request trên GitHub. Chúng tôi đặc biệt hoan nghênh bản dịch của người bản xứ. Bạn không cần biết lập trình: bạn có thể mô tả cách sửa trong một issue."
+    },
+    {
+      "h": "Sắp tới",
+      "p": "Phiên bản 1 bao gồm Calgary và miền nam Alberta. Kế hoạch là thêm các tỉnh và thành phố khác theo thời gian."
+    }
+  ]
+}

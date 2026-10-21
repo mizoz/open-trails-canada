@@ -1,5 +1,5 @@
 // Network first, cache fallback: pages you have opened keep working with no signal.
-const CACHE = "open-trails-v1";
+const CACHE = "open-trails-v2";
 
 self.addEventListener("install", () => self.skipWaiting());
 self.addEventListener("activate", (e) => e.waitUntil(self.clients.claim()));
